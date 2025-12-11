@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "subject": "math",
+      "type": "text",
+      "question": "Which of the following is a JavaScript framework?",
+      "options": ["Django", "Angular", "Laravel", "Spring"],
+      "answer": "Angular"
+    },
+    {
+      "id": 2,
+      "subject": "math",
+      "type": "image",
+      "question": "Identify the monument shown in the picture.",
+      "image": "assets/images/q1.jpg",
+      "options": ["Taj Mahal", "Qutub Minar", "India Gate", "Charminar"],
+      "answer": "Taj Mahal"
+    }
+  ]
