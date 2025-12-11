@@ -2598,5 +2598,265 @@
       "Option D"
     ],
     "answer": "Option A"
+  },
+  {
+    "id": 201,
+    "type": "text",
+    "subject": "Elimination",
+    "question": "Sample question 1 for Elimination?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option A"
+  },
+  {
+    "id": 202,
+    "type": "text",
+    "subject": "Elimination",
+    "question": "Sample question 2 for Elimination?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option A"
+  },
+  {
+    "id": 203,
+    "type": "text",
+    "subject": "Elimination",
+    "question": "Sample question 3 for Elimination?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option A"
+  },
+  {
+    "id": 204,
+    "type": "text",
+    "subject": "Elimination",
+    "question": "Sample question 4 for Elimination?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option A"
+  },
+  {
+    "id": 205,
+    "type": "text",
+    "subject": "Elimination",
+    "question": "Sample question 5 for Elimination?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option A"
+  },
+  {
+    "id": 206,
+    "type": "text",
+    "subject": "Elimination",
+    "question": "Sample question 6 for Elimination?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option A"
+  },
+  {
+    "id": 207,
+    "type": "text",
+    "subject": "Elimination",
+    "question": "Sample question 7 for Elimination?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option A"
+  },
+  {
+    "id": 208,
+    "type": "text",
+    "subject": "Elimination",
+    "question": "Sample question 8 for Elimination?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option A"
+  },
+  {
+    "id": 209,
+    "type": "text",
+    "subject": "Elimination",
+    "question": "Sample question 9 for Elimination?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option A"
+  },
+  {
+    "id": 210,
+    "type": "text",
+    "subject": "Elimination",
+    "question": "Sample question 10 for Elimination?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option A"
+  },
+  {
+    "id": 211,
+    "type": "text",
+    "subject": "Elimination",
+    "question": "Sample question 11 for Elimination?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option A"
+  },
+  {
+    "id": 212,
+    "type": "text",
+    "subject": "Elimination",
+    "question": "Sample question 12 for Elimination?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option A"
+  },
+  {
+    "id": 213,
+    "type": "text",
+    "subject": "Elimination",
+    "question": "Sample question 13 for Elimination?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option A"
+  },
+  {
+    "id": 214,
+    "type": "text",
+    "subject": "Elimination",
+    "question": "Sample question 14 for Elimination?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option A"
+  },
+  {
+    "id": 215,
+    "type": "text",
+    "subject": "Elimination",
+    "question": "Sample question 15 for Elimination?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option A"
+  },
+  {
+    "id": 216,
+    "type": "text",
+    "subject": "Elimination",
+    "question": "Sample question 16 for Elimination?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option A"
+  },
+  {
+    "id": 217,
+    "type": "text",
+    "subject": "Elimination",
+    "question": "Sample question 17 for Elimination?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option A"
+  },
+  {
+    "id": 218,
+    "type": "text",
+    "subject": "Elimination",
+    "question": "Sample question 18 for Elimination?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option A"
+  },
+  {
+    "id": 219,
+    "type": "text",
+    "subject": "Elimination",
+    "question": "Sample question 19 for Elimination?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option A"
+  },
+  {
+    "id": 220,
+    "type": "text",
+    "subject": "Elimination",
+    "question": "Sample question 20 for Elimination?",
+    "options": [
+      "Option A",
+      "Option B",
+      "Option C",
+      "Option D"
+    ],
+    "answer": "Option A"
   }
 ]

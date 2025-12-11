@@ -1,6 +1,7 @@
 .quiz-container {
-    max-width: 600px;
+    max-width: 100%;
     margin: auto;
+
   }
   
   .question-image {
@@ -14,14 +15,78 @@
   }
   
   .option-row {
-    display: flex;
-    align-items: center;
-    margin-bottom: 10px;
-  }
+  display: grid;
+  grid-template-columns: auto 1fr; /* radio button + text */
+  align-items: center;
+  gap: 0.5rem;
+  padding: .5rem;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+}
   
   .result {
     text-align: center;
     max-width: 500px;
     margin: 50px auto;
   }
+
+
+  .page-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  width: 100%;
+}
+
+.options-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* 2 columns */
+  gap: 1rem;
+}
+
+@media (max-width: 768px) {
+  .options-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Row 1 and Row 3 are full-width by default — nothing special needed */
+
+/* Row 2 — use CSS grid for 75% | 25% split */
+.row2 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;   /* 50% : 25% : 25% */
+  gap: 1rem;
+}
+
+/* Ensure last row grows with content */
+.row3 {
+  width: 100%;
+  overflow: auto;       /* allows expansion and scroll if needed */
+}
+
+/* RESPONSIVE — stack columns on small screens */
+@media (max-width: 768px) {
+  .row2 {
+    grid-template-columns: 1fr; /* stack vertically */
+  }
+}
+
+/* OPTIONAL: small padding to make it look good */
+.row > * {
+  width: 100%;
+}
+
+/* Make all p-card inside row2 light gray */
+.row2 .p-card, 
+.row2 .p-card .p-card-body {
+  background: #f2f2f2 !important;   /* light gray */
+}
+
+/* Optional: add border radius and padding */
+.row2 .p-card {
+  border-radius: 6px;
+  padding: 0.5rem;
+}
+
   
