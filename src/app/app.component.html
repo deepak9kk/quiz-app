@@ -27,7 +27,7 @@
   <!-- Row 3 - full width, expands with content -->
   <div class="row row3" *ngIf="gameStarted">
         <p-card>
-          <h1>{{ currentQuestion.question }}</h1>
+          <h1 class="preserve">{{ currentQuestion.question }}</h1>
           <img *ngIf="currentQuestion.type === 'image'"
               [src]="currentQuestion.image"
               class="question-image"/>
@@ -41,7 +41,7 @@
                   [(ngModel)]="selectedAnswer"
                   (click)="markAnswer(option)" [disabled]="tempCorrectAnswer != undefined || failedToAnswer == true">
               </p-radiobutton>
-              <h3><label style="margin-left: 10px;">{{ option }}</label></h3>
+              <h3><label class="preserve" style="margin-left: 10px;">{{ option }}</label></h3>
             </div>
           </div>
           <div>

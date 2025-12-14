@@ -3,79 +3,79 @@
     "id": 1,
     "type": "text",
     "subject": "Mathematics",
-    "question": "Sample question 1 for Mathematics?",
+    "question": "Which team did India defeat in the final to win the T20 World Cup?\nभारत ने फाइनल में किस टीम को हराकर ICC Champions Trophy 2024 जीता?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Australia",
+      "England",
+      "South Africa",
+      "New Zealand"
     ],
-    "answer": "Option A"
+    "answer": "New Zealand"
   },
   {
     "id": 2,
     "type": "text",
     "subject": "Mathematics",
-    "question": "Sample question 2 for Mathematics?",
+    "question": "Which team did India defeat in the final to win the T20 World Cup?\nभारत ने फाइनल में किस टीम को हराकर ICC Champions Trophy 2024 जीता?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Australia",
+      "England",
+      "South Africa",
+      "New Zealand"
     ],
-    "answer": "Option A"
+    "answer": "New Zealand"
   },
   {
     "id": 3,
     "type": "text",
     "subject": "Mathematics",
-    "question": "Sample question 3 for Mathematics?",
+    "question": "Which team did India defeat in the final to win the T20 World Cup?\nभारत ने फाइनल में किस टीम को हराकर ICC Champions Trophy 2024 जीता?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Australia",
+      "England",
+      "South Africa",
+      "New Zealand"
     ],
-    "answer": "Option A"
+    "answer": "New Zealand"
   },
   {
     "id": 4,
     "type": "text",
     "subject": "Mathematics",
-    "question": "Sample question 4 for Mathematics?",
+    "question": "Which team did India defeat in the final to win the T20 World Cup?\nभारत ने फाइनल में किस टीम को हराकर ICC Champions Trophy 2024 जीता?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Australia",
+      "England",
+      "South Africa",
+      "New Zealand"
     ],
-    "answer": "Option A"
+    "answer": "New Zealand"
   },
   {
     "id": 5,
     "type": "text",
     "subject": "Mathematics",
-    "question": "Sample question 5 for Mathematics?",
+    "question": "Which team did India defeat in the final to win the T20 World Cup?\nभारत ने फाइनल में किस टीम को हराकर ICC Champions Trophy 2024 जीता?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Australia",
+      "England",
+      "South Africa",
+      "New Zealand"
     ],
-    "answer": "Option A"
+    "answer": "New Zealand"
   },
   {
     "id": 6,
     "type": "text",
     "subject": "Mathematics",
-    "question": "Sample question 6 for Mathematics?",
+    "question": "Which team did India defeat in the final to win the T20 World Cup?\nभारत ने फाइनल में किस टीम को हराकर ICC Champions Trophy 2024 जीता?",
     "options": [
-      "Option A",
-      "Option B",
-      "Option C",
-      "Option D"
+      "Australia",
+      "England",
+      "South Africa",
+      "New Zealand"
     ],
-    "answer": "Option A"
+    "answer": "New Zealand"
   },
   {
     "id": 7,

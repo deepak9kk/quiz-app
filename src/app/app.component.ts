@@ -1,7 +1,7 @@
 // src/app/app.component.ts
 import { CommonModule } from '@angular/common';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
-import { ChangeDetectorRef, Component, NgZone } from '@angular/core';
+import { ChangeDetectorRef, Component } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { ConfirmationService, MessageService } from 'primeng/api';
 import { ButtonModule } from 'primeng/button';
@@ -114,6 +114,7 @@ export class AppComponent {
     ngOnInit() {
         this.http.get<Config>('assets/config.json').subscribe(data => {
             this.config = data;
+            this.elimination = this.config.elimination;
             this.scores = Array(this.config.teams).fill(0);
             this.http.get<Question[]>('assets/questions.json').subscribe(data => {
                 this.questions = data;
@@ -271,6 +272,7 @@ export class AppComponent {
                 } else{
                     this.eliminationRoundTeams = [];
                     this.eliminationRoundTeams.push(...sorted_list.filter(a => !this.eliminatedTeams.includes(a.index) && a.value == eliminationScore).map(a => a.index));
+                    this.eliminatedTeams.push(...sorted_list.filter(a => a.value < eliminationScore).map(a => a.index))
                     this.nextRound(idx);
                 }
 
