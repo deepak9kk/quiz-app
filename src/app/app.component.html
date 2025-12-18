@@ -10,17 +10,17 @@
   <!-- Row 2 - 75% + 25% -->
   <div class="row row2" *ngIf="gameStarted">
     <div class="col col-left">
-      <p-card><h1>{{ currentRound}}</h1></p-card>
+      <p-card><h4>{{ currentRound}}</h4></p-card>
     </div>
 
     <div class="col col-right">
-      <p-card><h1>Team {{ currentTeam! + 1}}</h1></p-card>
+      <p-card><h4>Team {{ currentTeam! + 1}}</h4></p-card>
     </div>
     <div class="col col-right">
-      <p-card><h1>Your Score: {{ scores[currentTeam!]}}</h1></p-card>
+      <p-card><h4>Your Score: {{ scores[currentTeam!]}}</h4></p-card>
     </div>
     <div class="col col-right">
-      <p-card><h1>Time Left: {{30 - timeLapsed}}</h1></p-card>
+      <p-card><h4>Time Left: {{30 - timeLapsed}}</h4></p-card>
     </div>
   </div>
 
@@ -29,7 +29,7 @@
         <p-card>
           <h1 class="preserve">{{ currentQuestion.question }}</h1>
           <img *ngIf="currentQuestion.type === 'image'"
-              [src]="currentQuestion.image"
+              [src]="'/assets/images/'+currentQuestion.image"
               class="question-image"/>
         </p-card>
         <p-card>
@@ -76,6 +76,7 @@
 <p-confirmdialog key="start"/>
 <p-confirmdialog key="roundStart"/>
 <p-confirmdialog key="timeup"/>
+<p-confirmdialog key="singleScore"/>
 
 <div class="card flex justify-center">
     <p-dialog header="Score Card" [modal]="true" [(visible)]="scoreCardVisible" [style]="{ width: '50rem' }" [maximizable]="true"  [breakpoints]="{ '1300px': '75vw', '575px': '90vw' }">

@@ -1382,7 +1382,7 @@
     {
         "id": 106,
         "type": "text",
-        "subject": "Countries",
+        "subject": "Countries & Capitals",
         "question": "What is the capital of Ukraine?",
         "options": [
             "Kyiv",
@@ -1395,7 +1395,7 @@
     {
         "id": 107,
         "type": "text",
-        "subject": "Countries",
+        "subject": "Countries & Capitals",
         "question": "What is the capital of Sweden?",
         "options": [
             "Bern",
@@ -1408,7 +1408,7 @@
     {
         "id": 108,
         "type": "text",
-        "subject": "Countries",
+        "subject": "Countries & Capitals",
         "question": "What is the capital of Israel?",
         "options": [
             "Tel Aviv",
@@ -1421,7 +1421,7 @@
     {
         "id": 109,
         "type": "text",
-        "subject": "Countries",
+        "subject": "Countries & Capitals",
         "question": "What is the capital of Argentina?",
         "options": [
             "Peru",
@@ -1434,7 +1434,7 @@
     {
         "id": 110,
         "type": "text",
-        "subject": "Countries",
+        "subject": "Countries & Capitals",
         "question": "Which country has the largest Muslim population?",
         "options": [
             "India",
@@ -1447,7 +1447,7 @@
     {
         "id": 111,
         "type": "text",
-        "subject": "Countries",
+        "subject": "Countries & Capitals",
         "question": "Which country has the longest coastline in the world?",
         "options": [
             "USA",
@@ -1460,7 +1460,7 @@
     {
         "id": 112,
         "type": "text",
-        "subject": "Countries",
+        "subject": "Countries & Capitals",
         "question": "Which country has the highest population density in the world?",
         "options": [
             "Bangladesh",
@@ -1473,7 +1473,7 @@
     {
         "id": 113,
         "type": "text",
-        "subject": "Countries",
+        "subject": "Countries & Capitals",
         "question": "Which country uses the Yen as its currency?",
         "options": [
             "China",
@@ -1486,7 +1486,7 @@
     {
         "id": 114,
         "type": "text",
-        "subject": "Countries",
+        "subject": "Countries & Capitals",
         "question": "Which country has the most volcanoes?",
         "options": [
             "Australia",

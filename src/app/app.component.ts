@@ -77,10 +77,10 @@ export class AppComponent {
     currentIndex = 0;
     selectedAnswer: string | null = null;
     scores: number[] = [];
-    rounds = ["Mathematics", "Science", "English", "History", "Geography", "Computer Science", "General Knowledge", "Sports", "Biology", "Physics"];
-    elimination = [5,4,3,2,1,1,1,1,1,1];
+    rounds = ["Cricket", "Technology", "DRDO Round", "General Science", "General Knowledge", "Entertainment", "Current Affairs", "History", "Countries"];
+    elimination = [10,10,9,8,7,6,5,5,5];
     usedQuestions: number[] = []; 
-    currentRound: string = "Mathematics";
+    currentRound: string = "Cricket";
     currentTeam: number | null = null;
     eliminatedTeams: number[] = [];
     currentRoundScore: number[] = [];
@@ -187,9 +187,6 @@ export class AppComponent {
 
     startQuestion = () => {
         let round = this.currentRound;
-        if(this.eliminationRoundTeams.length>0){
-            round = "Elimination";
-        }
         let availableQuestions = this.questions.filter(a => !this.usedQuestions.includes(a.id) && a.subject == round);
         this.currentQuestion = availableQuestions[Math.floor(Math.random() * availableQuestions.length)];
         this.gameStarted = true;
@@ -311,9 +308,21 @@ export class AppComponent {
 
 
     submitAnswer() {
+        this.usedQuestions.push(this.currentQuestion.id);
         if(this.tempCorrectAnswer == true){
-        this.currentRoundScore[this.currentTeam!] = 10;
+            let points = 10 + (2 - Math.min(Math.floor(this.timeLapsed / 10), 2));
+            this.currentRoundScore[this.currentTeam!] = points;
+            this.cs.confirm({
+                key: 'singleScore',
+                header: `You have earned ${points} points!`,
+                rejectLabel: 'Next',
+                acceptVisible: false,
+            });
+
         }
+
+
+
         this.tempCorrectAnswer = undefined;
         this.failedToAnswer = undefined;
         this.selectedAnswer = null;
