@@ -2,7 +2,7 @@
     {
         "id": 1,
         "type": "text",
-        "subject": "Cricket",
+        "subject": "Slogans",
         "question": "Which team did India defeat in the final to win the ICC Champions Trophy 2025?",
         "options": [
             "Australia",
@@ -15,7 +15,7 @@
     {
         "id": 2,
         "type": "text",
-        "subject": "Cricket",
+        "subject": "Slogans",
         "question": "Who was India's leading run-scorer in the ICC Champions Trophy 2025?",
         "options": [
             "Shreyas Iyer",
@@ -28,7 +28,7 @@
     {
         "id": 3,
         "type": "text",
-        "subject": "Cricket",
+        "subject": "Tasveeron Mein Bharat",
         "question": "Who took the most wickets for India in the ICC Champions Trophy 2025?",
         "options": [
             "Axar Patel & Mohammed Shami",
@@ -41,7 +41,7 @@
     {
         "id": 4,
         "type": "text",
-        "subject": "Cricket",
+        "subject": "Slogans, Quotes & Wars",
         "question": "Who was the Player of the Tournament in the ICC Champions Trophy 2025?",
         "options": [
             "Rachin Ravindra",
@@ -54,7 +54,7 @@
     {
         "id": 5,
         "type": "text",
-        "subject": "Cricket",
+        "subject": "Slogans, Quotes & Wars",
         "question": "Which country was the official host for ICC Champions Trophy 2025?",
         "options": [
             "India",
@@ -67,7 +67,7 @@
     {
         "id": 6,
         "type": "text",
-        "subject": "Cricket",
+        "subject": "Slogans, Quotes & Wars",
         "question": "Who was India's leading run-scorer in the Asia Cup 2025?",
         "options": [
             "Abhishek Sharma",
@@ -80,7 +80,7 @@
     {
         "id": 7,
         "type": "text",
-        "subject": "Cricket",
+        "subject": "Slogans, Quotes & Wars",
         "question": "Who took the most wickets for India in the Asia Cup 2025?",
         "options": [
             "Varun Chakravarthy",
@@ -93,7 +93,7 @@
     {
         "id": 8,
         "type": "text",
-        "subject": "Cricket",
+        "subject": "Slogans, Quotes & Wars",
         "question": "Who was the Player of the Tournament in the Asia Cup 2025?",
         "options": [
             "Tilak Varma",
@@ -106,7 +106,7 @@
     {
         "id": 9,
         "type": "text",
-        "subject": "Cricket",
+        "subject": "Slogans, Quotes & Wars",
         "question": "Which country was the official host for Asia Cup 2025?",
         "options": [
             "India",
@@ -119,8 +119,8 @@
     {
         "id": 10,
         "type": "text",
-        "subject": "Cricket",
-        "question": "Which team did India defeat in the final to win the ICC Women's Cricket World Cup 2025?",
+        "subject": "Slogans, Quotes & Wars",
+        "question": "Which team did India defeat in the final to win the ICC Women's Slogans, Quotes & Wars World Cup 2025?",
         "options": [
             "Australia",
             "England",
@@ -132,8 +132,8 @@
     {
         "id": 11,
         "type": "text",
-        "subject": "Cricket",
-        "question": "Who was India's leading run-scorer in the ICC Women's Cricket World Cup 2025?",
+        "subject": "Slogans, Quotes & Wars",
+        "question": "Who was India's leading run-scorer in the ICC Women's Slogans, Quotes & Wars World Cup 2025?",
         "options": [
             "Smriti Mandhana",
             "Pratika Rawal",
@@ -145,8 +145,8 @@
     {
         "id": 12,
         "type": "text",
-        "subject": "Cricket",
-        "question": "Who took the most wickets for India in the ICC Women's Cricket World Cup 2025?",
+        "subject": "Slogans, Quotes & Wars",
+        "question": "Who took the most wickets for India in the ICC Women's Slogans, Quotes & Wars World Cup 2025?",
         "options": [
             "Deepti Sharma",
             "Shree Charani",
@@ -158,8 +158,8 @@
     {
         "id": 13,
         "type": "text",
-        "subject": "Cricket",
-        "question": "Who was the Player of the Tournament in the ICC Women's Cricket World Cup 2025?",
+        "subject": "Slogans, Quotes & Wars",
+        "question": "Who was the Player of the Tournament in the ICC Women's Slogans, Quotes & Wars World Cup 2025?",
         "options": [
             "Deepti Sharma",
             "Laura Wolvaardt",
@@ -171,8 +171,8 @@
     {
         "id": 14,
         "type": "text",
-        "subject": "Cricket",
-        "question": "Which country was the official host for ICC Women's Cricket World Cup 2025?",
+        "subject": "Slogans, Quotes & Wars",
+        "question": "Which country was the official host for ICC Women's Slogans, Quotes & Wars World Cup 2025?",
         "options": [
             "India",
             "India & Sri Lanka",
@@ -184,7 +184,7 @@
     {
         "id": 15,
         "type": "text",
-        "subject": "Cricket",
+        "subject": "Slogans, Quotes & Wars",
         "question": "Which team handed India their only defeat during the ICC T20 World Cup 2007?",
         "options": [
             "Australia",
@@ -197,8 +197,8 @@
     {
         "id": 16,
         "type": "text",
-        "subject": "Cricket",
-        "question": "Sachin Tendulkar was the first cricketer to score a double century in an ODI. Against which team did he achieve this feat?",
+        "subject": "Slogans, Quotes & Wars",
+        "question": "Sachin Tendulkar was the first Slogans, Quotes & Warser to score a double century in an ODI. Against which team did he achieve this feat?",
         "options": [
             "Australia",
             "New Zealand",
@@ -210,8 +210,8 @@
     {
         "id": 17,
         "type": "text",
-        "subject": "Cricket",
-        "question": "Which cricketer holds the record for most centuries in One Day Internationals?",
+        "subject": "Slogans, Quotes & Wars",
+        "question": "Which Slogans, Quotes & Warser holds the record for most centuries in One Day Internationals?",
         "options": [
             "Virat Kohli",
             "Rohit Sharma",
@@ -223,8 +223,8 @@
     {
         "id": 18,
         "type": "text",
-        "subject": "Cricket",
-        "question": "Which edition of ICC Cricket World Cup (ODI) was first played outside England?",
+        "subject": "Slogans, Quotes & Wars",
+        "question": "Which edition of ICC Slogans, Quotes & Wars World Cup (ODI) was first played outside England?",
         "options": [
             "1979",
             "1983",
@@ -236,8 +236,8 @@
     {
         "id": 19,
         "type": "text",
-        "subject": "Cricket",
-        "question": "Which cricketer holds the record for most centuries in Test Cricket?",
+        "subject": "Slogans, Quotes & Wars",
+        "question": "Which Slogans, Quotes & Warser holds the record for most centuries in Test Slogans, Quotes & Wars?",
         "options": [
             "Virat Kohli",
             "Sunil Gavaskar",

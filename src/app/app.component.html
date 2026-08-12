@@ -1,75 +1,126 @@
 <div class="page-grid">
 
-  <!-- Row 1 - full width -->
+  <!-- Row 1 - Progress bar based on dynamic max time (30s or 60s) -->
   <div class="row row1">
-      <div class="card" *ngIf="gameStarted">
-        <p-progressbar [value]="timeLapsed/0.3" showValue="false" />
-      </div>
+    <div class="card" *ngIf="gameStarted">
+      <p-progressbar [value]="(timeLapsed / currentTimerLimit) * 100" [showValue]="false" />
+    </div>
   </div>
 
-  <!-- Row 2 - 75% + 25% -->
+  <!-- Row 2 - Round Name, Team, Score, and Time Left -->
   <div class="row row2" *ngIf="gameStarted">
     <div class="col col-left">
-      <p-card><h4>{{ currentRound}}</h4></p-card>
+      <p-card><h4>{{ currentRound }}</h4></p-card>
     </div>
 
-    <div class="col col-right">
-      <p-card><h4>Team {{ currentTeam! + 1}}</h4></p-card>
+    <div class="col col-right" *ngIf="currentTeam !== null">
+      <p-card><h4>Team {{ currentTeam + 1 }}</h4></p-card>
     </div>
-    <div class="col col-right">
-      <p-card><h4>Your Score: {{ scores[currentTeam!]}}</h4></p-card>
+    
+    <div class="col col-right" *ngIf="currentTeam !== null">
+      <p-card><h4>Your Score: {{ scores[currentTeam] }}</h4></p-card>
     </div>
+    
     <div class="col col-right">
-      <p-card><h4>Time Left: {{30 - timeLapsed}}</h4></p-card>
+      <p-card><h4>Time Left: {{ currentTimerLimit - timeLapsed }}s</h4></p-card>
     </div>
   </div>
 
-  <!-- Row 3 - full width, expands with content -->
+  <!-- Row 3 - Question Area & Pass Mechanics -->
+  <!-- Row 3 - Question Area & Pass Mechanics -->
   <div class="row row3" *ngIf="gameStarted">
-        <p-card>
-          <h1 class="preserve">{{ currentQuestion.question }}</h1>
-          <img *ngIf="currentQuestion.type === 'image'"
-              [src]="'/assets/images/'+currentQuestion.image"
-              class="question-image"/>
-        </p-card>
-        <p-card>
-          <div class="options-grid">
-            <div *ngFor="let option of currentQuestion.options" class="option-row">
-              <p-radiobutton 
-                  name="answer" 
-                  [value]="option"
-                  [(ngModel)]="selectedAnswer"
-                  (click)="markAnswer(option)" [disabled]="tempCorrectAnswer != undefined || failedToAnswer == true">
-              </p-radiobutton>
-              <h3><label class="preserve" style="margin-left: 10px;">{{ option }}</label></h3>
-            </div>
-          </div>
-          <div>
-            <h2 *ngIf="tempCorrectAnswer == false" [style]="{color:'red'}">Your Answer is Incorrect, Correct Answer is '{{currentQuestion.answer}}'</h2>
-            <h2 *ngIf="tempCorrectAnswer == true" [style]="{color:'green'}">'{{currentQuestion.answer}}' is the Correct Answer</h2>
-            <h2 *ngIf="failedToAnswer == true" [style]="{color:'red'}">'{{currentQuestion.answer}}' is the Correct Answer</h2>
-          </div>
-        </p-card>
-      <p-card>
-        
-          <button pButton label="Next" (click)="submitAnswer()" 
-                  [disabled]="tempCorrectAnswer == undefined && failedToAnswer == undefined" class="mt-3">
-          </button>
-      
-        </p-card>
-    
-    </div>
+    <p-card>
+      <!-- Passed Question Badge -->
+      <div *ngIf="isPassedQuestion" class="pass-badge" style="color: #e67e22; font-weight: bold; margin-bottom: 8px;">
+        ⚠️ PASSED QUESTION (+1 mark for correct answer, 0 for wrong)
+      </div>
+
+      <h1 class="preserve">{{ currentQuestion.question }}</h1>
+      <img *ngIf="currentQuestion.type === 'image'"
+           [src]="'/assets/images/' + currentQuestion.image"
+           class="question-image"/>
+    </p-card>
+
+    <!-- BUZZER BUTTONS AREA (Visible in Round 2 when no team has buzzed yet) -->
+
+
+    <p-card>
+      <div class="options-grid">
+        <div *ngFor="let option of currentQuestion.options" class="option-row">
+          <p-radiobutton 
+            name="answer" 
+            [value]="option"
+            [(ngModel)]="selectedAnswer"
+            (click)="markAnswer(option)" 
+            [disabled]="isOptionsDisabled()">
+          </p-radiobutton>
+          <h3><label class="preserve" style="margin-left: 10px;">{{ option }}</label></h3>
+        </div>
+      </div>
+
+      <!-- Feedback Messages -->
+      <div>
+        <h2 *ngIf="tempCorrectAnswer === false" style="color: red;">
+          Incorrect! Correct Answer: '{{ currentQuestion.answer }}'
+        </h2>
+        <h2 *ngIf="tempCorrectAnswer === true" style="color: green;">
+          '{{ currentQuestion.answer }}' is Correct!
+        </h2>
+        <h2 *ngIf="failedToAnswer === true" style="color: red;">
+          Time's Up! Correct Answer: '{{ currentQuestion.answer }}'
+        </h2>
+      </div>
+    </p-card>
+
+    <!-- Action Buttons -->
+    <p-card>
+  <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+
+    <!-- BUZZER BUTTONS (Visible in Round 2 when no team has buzzed in yet) -->
+    <ng-container *ngIf="currentRoundIndex === 1 && buzzedTeam === null">
+      <span style="font-weight: bold; margin-right: 5px;">Select Buzzed Team:</span>
+      <ng-container *ngFor="let score of scores; let i = index">
+        <button 
+          *ngIf="!eliminatedTeams.includes(i)"
+          pButton 
+          [label]="'Team ' + (i + 1)" 
+          class="p-button-danger"
+          (click)="handleBuzzerPress(i)">
+        </button>
+      </ng-container>
+    </ng-container>
+
+    <!-- ACTIVE BUZZED TEAM INDICATOR -->
+    <p-tag 
+      *ngIf="currentRoundIndex === 1 && buzzedTeam !== null" 
+      severity="warn" 
+      [value]="'Answering: Team ' + (buzzedTeam + 1)">
+    </p-tag>
+
+    <!-- Submit / Next Button -->
+    <button 
+      pButton 
+      label="Next" 
+      (click)="submitAnswer()" 
+      [disabled]="tempCorrectAnswer === undefined && failedToAnswer === undefined">
+    </button>
+
+    <!-- Pass Question Button -->
+    <button 
+      pButton 
+      label="Pass Question" 
+      class="p-button-warning"
+      *ngIf="canPassQuestion()"
+      (click)="passQuestion()">
+    </button>
+
+  </div>
+</p-card>
+  </div>
 
 </div>
 
-
-
-
-
-
-
- 
-  
+<!-- Dialog Confirmations -->
 <div class="card flex justify-center">
   <p-confirmdialog key="startGame"/>
 </div>
@@ -77,51 +128,48 @@
 <p-confirmdialog key="roundStart"/>
 <p-confirmdialog key="timeup"/>
 <p-confirmdialog key="singleScore"/>
+<p-confirmdialog key="buzzerSelection"/>
+<p-confirmdialog key="passConfirm"/>
 
+<!-- Score Card Modal -->
 <div class="card flex justify-center">
-    <p-dialog header="Score Card" [modal]="true" [(visible)]="scoreCardVisible" [style]="{ width: '50rem' }" [maximizable]="true"  [breakpoints]="{ '1300px': '75vw', '575px': '90vw' }">
-        <p-table [columns]="cols" [value]="scoreCard" showGridlines>
-          <ng-template #header let-columns>
-              <tr>
-                  @for (col of columns; track col) {
-                      <th>
-                          {{ col.header }}
-                      </th>
-                  }
-              </tr>
-          </ng-template>
-          <ng-template #body let-rowData let-columns="columns">
-              <tr [style]="getRowStyle(rowData.index)">
-                  @for (col of columns; track col) {
-                      <td>
-                          {{ rowData[col.field] }}
-                      </td>
-                  }
-              </tr>
-          </ng-template>
-      </p-table>
-    </p-dialog>
+  <p-dialog header="Score Card" [modal]="true" (onHide)="onScoreCardHide()" [(visible)]="scoreCardVisible" [style]="{ width: '50rem' }" [maximizable]="true" [breakpoints]="{ '1300px': '75vw', '575px': '90vw' }">
+    <p-table [columns]="cols" [value]="scoreCard" showGridlines>
+      <ng-template #header let-columns>
+        <tr>
+          @for (col of columns; track col) {
+            <th>{{ col.header }}</th>
+          }
+        </tr>
+      </ng-template>
+      <ng-template #body let-rowData let-columns="columns">
+        <tr [style]="getRowStyle(rowData.index)">
+          @for (col of columns; track col) {
+            <td>{{ rowData[col.field] }}</td>
+          }
+        </tr>
+      </ng-template>
+    </p-table>
+  </p-dialog>
 </div>
+
+<!-- Game Over View -->
 <div *ngIf="gameOver">
-        <p-table [columns]="cols" [value]="scoreCard" showGridlines>
-          <ng-template #header let-columns>
-              <tr>
-                  @for (col of columns; track col) {
-                      <th>
-                          {{ col.header }}
-                      </th>
-                  }
-              </tr>
-          </ng-template>
-          <ng-template #body let-rowData let-columns="columns">
-              <tr [style]="getRowStyle(rowData.index)">
-                  @for (col of columns; track col) {
-                      <td>
-                          {{ rowData[col.field] }}
-                      </td>
-                  }
-              </tr>
-          </ng-template>
-      </p-table>
+  <h2>Final Leaderboard</h2>
+  <p-table [columns]="cols_final" [value]="scoreCard" showGridlines>
+    <ng-template #header let-columns>
+      <tr>
+        @for (col of columns; track col) {
+          <th>{{ col.header }}</th>
+        }
+      </tr>
+    </ng-template>
+    <ng-template #body let-rowData let-columns="columns">
+      <tr [style]="getRowStyle(rowData.index)">
+        @for (col of columns; track col) {
+          <td>{{ rowData[col.field] }}</td>
+        }
+      </tr>
+    </ng-template>
+  </p-table>
 </div>
-  

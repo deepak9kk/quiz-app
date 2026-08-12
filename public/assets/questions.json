@@ -2,1680 +2,609 @@
     {
         "id": 1,
         "type": "text",
-        "subject": "Cricket",
-        "question": "Which team did India defeat in the final to win the ICC Champions Trophy 2025?",
+        "subject": "Slogans, Quotes & Wars",
+        "question": "1. Who is credited with coining the slogan “Inquilab Zindabad”?\n“इंकलाब ज़िंदाबाद” का नारा देने का श्रेय किसे दिया जाता है?",
         "options": [
-            "Australia",
-            "England",
-            "South Africa",
-            "New Zealand"
+            "Bhagat Singh / भगत सिंह",
+            "Subhas Chandra Bose / सुभाष चंद्र बोस",
+            "Hasrat Mohani / हसरत मोहानी",
+            "Chandrashekhar Azad / चंद्रशेखर आज़ाद"
         ],
-        "answer": "New Zealand"
+        "answer": "Hasrat Mohani / हसरत मोहानी"
     },
     {
         "id": 2,
         "type": "text",
-        "subject": "Cricket",
-        "question": "Who was India's leading run-scorer in the ICC Champions Trophy 2025?",
+        "subject": "Slogans, Quotes & Wars",
+        "question": "2. Swaraj is my birthright and I shall have it” was said by\n“स्वराज मेरा जन्मसिद्ध अधिकार है और मैं इसे लेकर रहूँगा” किसने कहा था?",
         "options": [
-            "Shreyas Iyer",
-            "Virat Kohli",
-            "Rohit Sharma",
-            "KL Rahul"
+            "Lala Lajpat Rai / लाला लाजपत रायr",
+            "Bal Gangadhar Tilak / बाल गंगाधर तिलक",
+            "Bipin Chandra Pal / बिपिन चंद्र पाल",
+            "Gopal Krishna Gokhale / गोपाल कृष्ण गोखले"
         ],
-        "answer": "Shreyas Iyer"
+        "answer": "Bal Gangadhar Tilak / बाल गंगाधर तिलक"
     },
     {
         "id": 3,
         "type": "text",
-        "subject": "Cricket",
-        "question": "Who took the most wickets for India in the ICC Champions Trophy 2025?",
+        "subject": "Slogans, Quotes & Wars",
+        "question": "“Government of the people, by the people, for the people” was said by\n“जनता की सरकार, जनता द्वारा, जनता के लिए” किसने कहा था?",
         "options": [
-            "Axar Patel & Mohammed Shami",
-            "Harshit Rana & Varun Chakravarthy",
-            "Varun Chakravarthy & Mohammed Shami",
-            "Axar Patel & Harshit Rana"
+            "Thomas Jefferson / थॉमस जेफरसन",
+            "Abraham Lincoln / अब्राहम लिंकन",
+            "George Washington / जॉर्ज वॉशिंगटन",
+            "Winston Churchill / विंस्टन चर्चिल"
         ],
-        "answer": "Varun Chakravarthy & Mohammed Shami"
+        "answer": "Abraham Lincoln / अब्राहम लिंकन"
     },
-    {
-        "id": 4,
-        "type": "text",
-        "subject": "Cricket",
-        "question": "Who was the Player of the Tournament in the ICC Champions Trophy 2025?",
-        "options": [
-            "Rachin Ravindra",
-            "Virat Kohli",
-            "Rohit Sharma",
-            "Mitchell Santner"
-        ],
-        "answer": "Rachin Ravindra"
-    },
-    {
-        "id": 5,
-        "type": "text",
-        "subject": "Cricket",
-        "question": "Which country was the official host for ICC Champions Trophy 2025?",
-        "options": [
-            "India",
-            "UAE",
-            "Sri Lanka",
-            "Pakistan"
-        ],
-        "answer": "Pakistan"
-    },
-    {
-        "id": 6,
-        "type": "text",
-        "subject": "Cricket",
-        "question": "Who was India's leading run-scorer in the Asia Cup 2025?",
-        "options": [
-            "Abhishek Sharma",
-            "Tilak Varma",
-            "Shubman Gill",
-            "Suryakumar Yadav"
-        ],
-        "answer": "Abhishek Sharma"
-    },
-    {
-        "id": 7,
-        "type": "text",
-        "subject": "Cricket",
-        "question": "Who took the most wickets for India in the Asia Cup 2025?",
-        "options": [
-            "Varun Chakravarthy",
-            "Jasprit Bumrah",
-            "Arshdeep Singh",
-            "Kuldeep Yadav"
-        ],
-        "answer": "Kuldeep Yadav"
-    },
-    {
-        "id": 8,
-        "type": "text",
-        "subject": "Cricket",
-        "question": "Who was the Player of the Tournament in the Asia Cup 2025?",
-        "options": [
-            "Tilak Varma",
-            "Arshdeep Singh",
-            "Kuldeep Yadav",
-            "Abhishek Sharma"
-        ],
-        "answer": "Abhishek Sharma"
-    },
-    {
-        "id": 9,
-        "type": "text",
-        "subject": "Cricket",
-        "question": "Which country was the official host for Asia Cup 2025?",
-        "options": [
-            "India",
-            "UAE",
-            "Sri Lanka",
-            "Pakistan"
-        ],
-        "answer": "UAE"
-    },
-    {
-        "id": 10,
-        "type": "text",
-        "subject": "Cricket",
-        "question": "Which team did India defeat in the final to win the ICC Women's Cricket World Cup 2025?",
-        "options": [
-            "Australia",
-            "England",
-            "South Africa",
-            "New Zealand"
-        ],
-        "answer": "South Africa"
-    },
-    {
-        "id": 11,
-        "type": "text",
-        "subject": "Cricket",
-        "question": "Who was India's leading run-scorer in the ICC Women's Cricket World Cup 2025?",
-        "options": [
-            "Smriti Mandhana",
-            "Pratika Rawal",
-            "Jemimah Rodrigues",
-            "Shafali Verma"
-        ],
-        "answer": "Smriti Mandhana"
-    },
-    {
-        "id": 12,
-        "type": "text",
-        "subject": "Cricket",
-        "question": "Who took the most wickets for India in the ICC Women's Cricket World Cup 2025?",
-        "options": [
-            "Deepti Sharma",
-            "Shree Charani",
-            "Renuka Singh",
-            "Kranti Goud"
-        ],
-        "answer": "Deepti Sharma"
-    },
-    {
-        "id": 13,
-        "type": "text",
-        "subject": "Cricket",
-        "question": "Who was the Player of the Tournament in the ICC Women's Cricket World Cup 2025?",
-        "options": [
-            "Deepti Sharma",
-            "Laura Wolvaardt",
-            "Smriti Mandhana",
-            "Alyssa Healy"
-        ],
-        "answer": "Deepti Sharma"
-    },
-    {
-        "id": 14,
-        "type": "text",
-        "subject": "Cricket",
-        "question": "Which country was the official host for ICC Women's Cricket World Cup 2025?",
-        "options": [
-            "India",
-            "India & Sri Lanka",
-            "India, Sri Lanka & Bangladesh",
-            "India & Bangladesh"
-        ],
-        "answer": "India & Sri Lanka"
-    },
-    {
-        "id": 15,
-        "type": "text",
-        "subject": "Cricket",
-        "question": "Which team handed India their only defeat during the ICC T20 World Cup 2007?",
-        "options": [
-            "Australia",
-            "New Zealand",
-            "Sri Lanka",
-            "South Africa"
-        ],
-        "answer": "New Zealand"
-    },
-    {
-        "id": 16,
-        "type": "text",
-        "subject": "Cricket",
-        "question": "Sachin Tendulkar was the first cricketer to score a double century in an ODI. Against which team did he achieve this feat?",
-        "options": [
-            "Australia",
-            "New Zealand",
-            "Sri Lanka",
-            "South Africa"
-        ],
-        "answer": "South Africa"
-    },
-    {
-        "id": 17,
-        "type": "text",
-        "subject": "Cricket",
-        "question": "Which cricketer holds the record for most centuries in One Day Internationals?",
-        "options": [
-            "Virat Kohli",
-            "Rohit Sharma",
-            "Sachin Tendulkar",
-            "Steve Smith"
-        ],
-        "answer": "Virat Kohli"
-    },
-    {
-        "id": 18,
-        "type": "text",
-        "subject": "Cricket",
-        "question": "Which edition of ICC Cricket World Cup (ODI) was first played outside England?",
-        "options": [
-            "1979",
-            "1983",
-            "1987",
-            "1992"
-        ],
-        "answer": "1987"
-    },
-    {
-        "id": 19,
-        "type": "text",
-        "subject": "Cricket",
-        "question": "Which cricketer holds the record for most centuries in Test Cricket?",
-        "options": [
-            "Virat Kohli",
-            "Sunil Gavaskar",
-            "Sachin Tendulkar",
-            "Steve Smith"
-        ],
-        "answer": "Sachin Tendulkar"
-    },
-    {
-        "id": 20,
-        "type": "image",
-        "subject": "Entertainment",
-        "question": "Identify the movie",
-        "options": [
-            "Kabhi Khushi Kabhi Gam",
-            "Baghban",
-            "Mohabbatein",
-            "Sarkar"
-        ],
-        "answer": "Kabhi Khushi Kabhi Gam",
-        "image": "ques_01.jpg"
-    },
-    {
-        "id": 21,
-        "type": "image",
-        "subject": "Entertainment",
-        "question": "Identify the movie",
-        "options": [
-            "Welcome",
-            "Bhagam Bhag",
-            "Phir Hera Pheri",
-            "Hera Pheri"
-        ],
-        "answer": "Phir Hera Pheri",
-        "image": "ques_02.jpg"
-    },
-    {
-        "id": 22,
-        "type": "image",
-        "subject": "Entertainment",
-        "question": "Identify the movie",
-        "options": [
-            "Sanju",
-            "Munna Bhai MBBS",
-            "Lagey Raho Munna Bhai",
-            "Jolly LLB"
-        ],
-        "answer": "Munna Bhai MBBS",
-        "image": "ques_03.jpg"
-    },
-    {
-        "id": 23,
-        "type": "image",
-        "subject": "Entertainment",
-        "question": "Identify the movie",
-        "options": [
-            "Golmaal",
-            "Dhol",
-            "Dhamaal",
-            "Halchal"
-        ],
-        "answer": "Golmaal",
-        "image": "ques_04.jpg"
-    },
-    {
-        "id": 24,
-        "type": "image",
-        "subject": "Entertainment",
-        "question": "Identify the movie",
-        "options": [
-            "Halchal",
-            "Hungama",
-            "Chupke Chupke",
-            "Chup Chup Ke"
-        ],
-        "answer": "Chup Chup Ke",
-        "image": "ques_05.jpg"
-    },
-    {
-        "id": 25,
-        "type": "image",
-        "subject": "Entertainment",
-        "question": "Identify the movie",
-        "options": [
-            "Waah Teri Shaadi",
-            "Vivah",
-            "Life Partner",
-            "Welcome to Sajjanpur"
-        ],
-        "answer": "Vivah",
-        "image": "ques_06.jpg"
-    },
-    {
-        "id": 26,
-        "type": "image",
-        "subject": "Entertainment",
-        "question": "Identify the movie",
-        "options": [
-            "Welcome",
-            "Bhagam Bhag",
-            "Phir Hera Pheri",
-            "Hera Pheri"
-        ],
-        "answer": "Hera Pheri",
-        "image": "ques_07.jpg"
-    },
-    {
-        "id": 27,
-        "type": "image",
-        "subject": "Entertainment",
-        "question": "Identify the movie",
-        "options": [
-            "Raazi",
-            "Bombay Velvet",
-            "Masaan",
-            "Bhoot"
-        ],
-        "answer": "Masaan",
-        "image": "ques_08.jpg"
-    },
-    {
-        "id": 28,
-        "type": "image",
-        "subject": "Entertainment",
-        "question": "Identify the movie",
-        "options": [
-            "Raazi",
-            "Gully Boy",
-            "Highway",
-            "Udta Punjab"
-        ],
-        "answer": "Raazi",
-        "image": "ques_09.jpg"
-    },
-    {
-        "id": 29,
-        "type": "image",
-        "subject": "Entertainment",
-        "question": "Identify the movie",
-        "options": [
-            "Daud",
-            "Dhamaal",
-            "Run",
-            "Bombay to Goa"
-        ],
-        "answer": "Run",
-        "image": "ques_10.jpg"
-    },
-    {
-        "id": 30,
-        "type": "image",
-        "subject": "Entertainment",
-        "question": "Identify the movie",
-        "options": [
-            "Hungama",
-            "Dhol",
-            "Dhamaal",
-            "Halchal"
-        ],
-        "answer": "Hungama",
-        "image": "ques_11.jpg"
-    },
-    {
-        "id": 31,
-        "type": "image",
-        "subject": "Entertainment",
-        "question": "Identify the movie",
-        "options": [
-            "Golmaal",
-            "Dhol",
-            "Dhamaal",
-            "Halchal"
-        ],
-        "answer": "Dhamaal",
-        "image": "ques_12.jpg"
-    },
-    {
-        "id": 32,
-        "type": "image",
-        "subject": "Entertainment",
-        "question": "Identify the movie",
-        "options": [
-            "Halchal",
-            "Andaz Apna Apna",
-            "Hungama",
-            "Gumnaam"
-        ],
-        "answer": "Andaz Apna Apna",
-        "image": "ques_13.jpg"
-    },
-    {
-        "id": 33,
-        "type": "image",
-        "subject": "Entertainment",
-        "question": "Identify the movie",
-        "options": [
-            "Bachchan Pandey",
-            "Bell Bottom",
-            "Tees Maar Khan",
-            "Khiladi 786"
-        ],
-        "answer": "Khiladi 786",
-        "image": "ques_14.jpg"
-    },
-    {
-        "id": 34,
-        "type": "image",
-        "subject": "Entertainment",
-        "question": "Identify the movie",
-        "options": [
-            "Golmaal",
-            "Dhol",
-            "All The Best",
-            "Dhamaal"
-        ],
-        "answer": "All The Best",
-        "image": "ques_15.jpg"
-    },
-    {
-        "id": 35,
-        "type": "text",
-        "subject": "General Science",
-        "question": "Which part of the human brain controls balance and posture?",
-        "options": [
-            "Cerebrum",
-            "Medulla",
-            "Cerebellum",
-            "Hypothalamus"
-        ],
-        "answer": "Cerebellum"
-    },
-    {
-        "id": 36,
-        "type": "text",
-        "subject": "General Science",
-        "question": "Which acid is present in lemon?",
-        "options": [
-            "Acetic acid",
-            "Citric acid",
-            "Hydrochloric acid",
-            "Lactic acid"
-        ],
-        "answer": "Citric acid"
-    },
+   {
+    "id": 4,
+    "type": "text",
+    "subject": "Slogans, Quotes & Wars",
+    "question": "Jawaharlal Nehru delivered the “Tryst with Destiny” speech on:\nजवाहरलाल नेहरू ने “Tryst with Destiny” भाषण कब दिया था?",
+    "options": [
+      "26 January 1950 / 26 जनवरी 1950",
+      "15 August 1947 / 15 अगस्त 1947",
+      "14 August 1947 / 14 अगस्त 1947",
+      "9 August 1942 / 9 अगस्त 1942"
+    ],
+    "answer": "14 August 1947 / 14 अगस्त 1947"
+  },
+  {
+    "id": 5,
+    "type": "text",
+    "subject": "Slogans, Quotes & Wars",
+    "question": "“Purna Swaraj” was officially adopted at which Congress session?\n“पूर्ण स्वराज” को आधिकारिक रूप से कांग्रेस के किस अधिवेशन में अपनाया गया?",
+    "options": [
+      "Lahore, 1929 / लाहौर, 1929",
+      "Lucknow, 1916 / लखनऊ, 1916",
+      "Calcutta, 1920 / कलकत्ता, 1920",
+      "Karachi, 1931 / कराची, 1931"
+    ],
+    "answer": "Lahore, 1929 / लाहौर, 1929"
+  },
+  {
+    "id": 6,
+    "type": "text",
+    "subject": "Slogans, Quotes & Wars",
+    "question": "The Indian Independence Act was passed in:\nभारतीय स्वतंत्रता अधिनियम किस वर्ष पारित हुआ?",
+    "options": [
+      "June 1947 / जून 1947",
+      "July 1947 / जुलाई 1947",
+      "August 1947 / अगस्त 1947",
+      "September 1947 / सितंबर 1947"
+    ],
+    "answer": "July 1947 / जुलाई 1947"
+  },
+  {
+    "id": 7,
+    "type": "text",
+    "subject": "Slogans, Quotes & Wars",
+    "question": "“Jai Hind” was coined/popularized within the INA by:\nINA में “जय हिंद” को लोकप्रिय बनाने का श्रेय किसे दिया जाता है?",
+    "options": [
+      "Abid Hasan Safrani / आबिद हसन सफ़रानी",
+      "Rash Behari Bose / रास बिहारी बोस",
+      "Shah Nawaz Khan / शाह नवाज़ खान",
+      "Lakshmi Sahgal / लक्ष्मी सहगल"
+    ],
+    "answer": "Abid Hasan Safrani / आबिद हसन सफ़रानी"
+  },
+  {
+    "id": 8,
+    "type": "text",
+    "subject": "Slogans, Quotes & Wars",
+    "question": "“Satyameva Jayate” is taken from:\n“सत्यमेव जयते” किससे लिया गया है?",
+    "options": [
+      "Rig Veda / ऋग्वेद",
+      "Bhagavad Gita / भगवद्गीता",
+      "Mundaka Upanishad / मुंडक उपनिषद",
+      "Ramayana / रामायण"
+    ],
+    "answer": "Mundaka Upanishad / मुंडक उपनिषद"
+  },
+  {
+    "id": 9,
+    "type": "text",
+    "subject": "Slogans, Quotes & Wars",
+    "question": "The Revolt of 1857 began at:\n1857 का विद्रोह कहाँ से शुरू हुआ?",
+    "options": [
+      "Delhi / दिल्ली",
+      "Kanpur / कानपुर",
+      "Meerut / मेरठ",
+      "Lucknow / लखनऊ"
+    ],
+    "answer": "Meerut / मेरठ"
+  },
+  {
+    "id": 10,
+    "type": "text",
+    "subject": "Slogans, Quotes & Wars",
+    "question": "Indian National Congress was founded in:\nभारतीय राष्ट्रीय कांग्रेस की स्थापना किस वर्ष हुई?",
+    "options": [
+      "1883",
+      "1885",
+      "1887",
+      "1890"
+    ],
+    "answer": "1885"
+  },
+  {
+    "id": 11,
+    "type": "text",
+    "subject": "Slogans, Quotes & Wars",
+    "question": "Dandi March began on:\nदांडी मार्च कब शुरू हुआ?",
+    "options": [
+      "12 March 1930 / 12 मार्च 1930",
+      "6 April 1930 / 6 अप्रैल 1930",
+      "26 January 1930 / 26 जनवरी 1930",
+      "8 August 1942 / 8 अगस्त 1942"
+    ],
+    "answer": "12 March 1930 / 12 मार्च 1930"
+  },
+  {
+    "id": 12,
+    "type": "text",
+    "subject": "Slogans, Quotes & Wars",
+    "question": "Chauri Chaura incident occurred in:\nचौरी-चौरा कांड किस वर्ष हुआ?",
+    "options": [
+      "1920",
+      "1921",
+      "1922",
+      "1923"
+    ],
+    "answer": "1922"
+  },
+  {
+    "id": 13,
+    "type": "text",
+    "subject": "Slogans, Quotes & Wars",
+    "question": "Jallianwala Bagh massacre occurred on:\nजलियांवाला बाग हत्याकांड कब हुआ?",
+    "options": [
+      "6 April 1919 / 6 अप्रैल 1919",
+      "13 April 1919 / 13 अप्रैल 1919",
+      "15 August 1919 / 15 अगस्त 1919",
+      "26 January 1920 / 26 जनवरी 1920"
+    ],
+    "answer": "13 April 1919 / 13 अप्रैल 1919"
+  },
+  {
+    "id": 14,
+    "type": "text",
+    "subject": "Slogans, Quotes & Wars",
+    "question": "Operation Barbarossa was launched in:\nऑपरेशन बारबारोसा किस वर्ष शुरू हुआ?",
+    "options": [
+      "1939",
+      "1940",
+      "1941",
+      "1942"
+    ],
+    "answer": "1941"
+  },
+  {
+    "id": 15,
+    "type": "text",
+    "subject": "Slogans, Quotes & Wars",
+    "question": "Atomic bomb was dropped on Hiroshima on:\nहिरोशिमा पर परमाणु बम कब गिराया गया?",
+    "options": [
+      "6 August 1945 / 6 अगस्त 1945",
+      "9 August 1945 / 9 अगस्त 1945",
+      "15 August 1945 / 15 अगस्त 1945",
+      "2 September 1945 / 2 सितंबर 1945"
+    ],
+    "answer": "6 August 1945 / 6 अगस्त 1945"
+  },
+  {
+    "id": 16,
+    "type": "text",
+    "subject": "Slogans, Quotes & Wars",
+    "question": "Third Battle of Panipat was fought between Marathas and:\nपानीपत का तीसरा युद्ध मराठों और किसके बीच हुआ?",
+    "options": [
+      "Nadir Shah / नादिर शाह",
+      "Ahmad Shah Abdali / अहमद शाह अब्दाली",
+      "Tipu Sultan / टीपू सुल्तान",
+      "Siraj-ud-daulah / सिराज-उद-दौला"
+    ],
+    "answer": "Ahmad Shah Abdali / अहमद शाह अब्दाली"
+  },
+  {
+    "id": 17,
+    "type": "text",
+    "subject": "Slogans, Quotes & Wars",
+    "question": "The Kargil War between India and Pakistan took place in:\nभारत और पाकिस्तान के बीच कारगिल युद्ध किस वर्ष हुआ था?",
+    "options": [
+      "1971",
+      "1984",
+      "1998",
+      "1999"
+    ],
+    "answer": "1999"
+  },
+  {
+    "id": 18,
+    "type": "text",
+    "subject": "Slogans, Quotes & Wars",
+    "question": "The Indo-Pak War of 1971 resulted in the creation of:\n1971 के भारत-पाक युद्ध के परिणामस्वरूप किस देश का निर्माण हुआ?",
+    "options": [
+      "Nepal / नेपाल",
+      "Bangladesh / बांग्लादेश",
+      "Bhutan / भूटान",
+      "Sri Lanka / श्रीलंका"
+    ],
+    "answer": "Bangladesh / बांग्लादेश"
+  },
+   {
+    "id": 19,
+    "type": "text",
+    "subject": "Slogans, Quotes & Wars",
+    "question": "Rani Lakshmibai died in the Battle of Kotah-ki-Serai near:\nरानी लक्ष्मीबाई कोटाह-की-सराय के युद्ध में किस स्थान के पास वीरगति को प्राप्त हुईं?",
+    "options": [
+      "Jhansi / झाँसी",
+      "Kanpur / कानपुर",
+      "Gwalior / ग्वालियर",
+      "Lucknow / लखनऊ"
+    ],
+    "answer": "Gwalior / ग्वालियर"
+  },
+  {
+    "id": 20,
+    "type": "text",
+    "subject": "Slogans, Quotes & Wars",
+    "question": "Who is famously associated with the Peshawar Incident of 1930?\n1930 के पेशावर कांड से किसका नाम प्रमुख रूप से जुड़ा है?",
+    "options": [
+      "Govind Ballabh Pant / गोविंद बल्लभ पंत",
+      "Chandra Singh Garhwali / चंद्र सिंह गढ़वाली",
+      "Sri Dev Suman / श्री देव सुमन",
+      "Badri Datt Pandey / बद्री दत्त पांडे"
+    ],
+    "answer": "Chandra Singh Garhwali / चंद्र सिंह गढ़वाली"
+  },
+  {
+    "id": 21,
+    "type": "text",
+    "subject": "Slogans, Quotes & Wars",
+    "question": "The Coolie-Begar Movement was primarily directed against:\nकुली-बेगार आंदोलन मुख्यतः किसके विरोध में था?",
+    "options": [
+      "Forest fires / वनाग्नि",
+      "Forced and unpaid labour / जबरन एवं बिना भुगतान के श्रम",
+      "Salt tax / नमक कर",
+      "Land revenue only / केवल भूमि कर"
+    ],
+    "answer": "Forced and unpaid labour / जबरन एवं बिना भुगतान के श्रम"
+  },
+  {
+    "id": 22,
+    "type": "text",
+    "subject": "Bharat Ki Pehchan (Buzzer)",
+    "question": "Who designed the Indian National Flag?\nभारत के राष्ट्रीय ध्वज का डिजाइन किसने तैयार किया था?",
+    "options": [
+      "Pingali Venkayya / पिंगली वेंकैया",
+      "Abanindranath Tagore / अवनींद्रनाथ टैगोर",
+      "Nandalal Bose / नंदलाल बोस",
+      "Bankim Chandra Chattopadhyay / बंकिम चंद्र चट्टोपाध्याय"
+    ],
+    "answer": "Pingali Venkayya / पिंगली वेंकैया"
+  },
+  {
+    "id": 23,
+    "type": "text",
+    "subject": "Bharat Ki Pehchan (Buzzer)",
+    "question": "Indian Constitution Day is observed on:\nभारत में संविधान दिवस कब मनाया जाता है?",
+    "options": [
+      "15 August / 15 अगस्त",
+      "26 January / 26 जनवरी",
+      "26 November / 26 नवंबर",
+      "2 October / 2 अक्टूबर"
+    ],
+    "answer": "26 November / 26 नवंबर"
+  },
+  {
+    "id": 24,
+    "type": "text",
+    "subject": "Bharat Ki Pehchan (Buzzer)",
+    "question": "National Unity Day is celebrated on the birth anniversary of:\nराष्ट्रीय एकता दिवस किसकी जयंती पर मनाया जाता है?",
+    "options": [
+      "Mahatma Gandhi / महात्मा गांधी",
+      "Sardar Vallabhbhai Patel / सरदार वल्लभभाई पटेल",
+      "Subhas Chandra Bose / सुभाष चंद्र बोस",
+      "Jawaharlal Nehru / जवाहरलाल नेहरू"
+    ],
+    "answer": "Sardar Vallabhbhai Patel / सरदार वल्लभभाई पटेल"
+  },
+  {
+    "id": 25,
+    "type": "text",
+    "subject": "Bharat Ki Pehchan (Buzzer)",
+    "question": "The fourth lion of the Lion Capital is:\nसिंह स्तंभ का चौथा सिंह कहाँ स्थित है?",
+    "options": [
+      "Broken / टूटा हुआ है",
+      "Facing downward / नीचे की ओर है",
+      "Facing backward and not visible / पीछे की ओर है और दिखाई नहीं देता",
+      "Kept separately / अलग रखा गया है"
+    ],
+    "answer": "Facing backward and not visible / पीछे की ओर है और दिखाई नहीं देता"
+  },
+  {
+    "id": 26,
+    "type": "text",
+    "subject": "Bharat Ki Pehchan (Buzzer)",
+    "question": "The original National Anthem “Jana Gana Mana” was written in:\nमूल राष्ट्रगान “जन गण मन” किस भाषा में रचा गया था?",
+    "options": [
+      "Hindi / हिंदी",
+      "Sanskrit / संस्कृत",
+      "Bengali / बंगाली",
+      "Prakrit / प्राकृत"
+    ],
+    "answer": "Bengali / बंगाली"
+  },
+  {
+    "id": 27,
+    "type": "text",
+    "subject": "Bharat Ki Pehchan (Buzzer)",
+    "question": "The National Anthem was first publicly sung at the session of the Indian National Congress held in:\nराष्ट्रगान पहली बार भारतीय राष्ट्रीय कांग्रेस के किस अधिवेशन में सार्वजनिक रूप से गाया गया था?",
+    "options": [
+      "Bombay, 1885 / बंबई, 1885",
+      "Calcutta, 1911 / कलकत्ता, 1911",
+      "Lucknow, 1916 / लखनऊ, 1916",
+      "Lahore, 1929 / लाहौर, 1929"
+    ],
+    "answer": "Calcutta, 1911 / कलकत्ता, 1911"
+  },
+  {
+    "id": 28,
+    "type": "text",
+    "subject": "Bharat Ki Pehchan (Buzzer)",
+    "question": "The National Calendar of India is based on which era?\nभारत का राष्ट्रीय कैलेंडर किस संवत पर आधारित है?",
+    "options": [
+      "Vikram Samvat / विक्रम संवत",
+      "Shaka Era / शक संवत",
+      "Gupta Era / गुप्त संवत",
+      "Harsha Era / हर्ष संवत"
+    ],
+    "answer": "Shaka Era / शक संवत"
+  },
+  {
+    "id": 29,
+    "type": "text",
+    "subject": "Bharat Ki Pehchan (Buzzer)",
+    "question": "Who designed the Indian National Flag?\nभारतीय राष्ट्रीय ध्वज का डिजाइन किसने तैयार किया था?",
+    "options": [
+      "Pingali Venkayya / पिंगली वेंकैया",
+      "Nandalal Bose / नंदलाल बोस",
+      "Rabindranath Tagore / रवींद्रनाथ टैगोर",
+      "Mahatma Gandhi / महात्मा गांधी"
+    ],
+    "answer": "Pingali Venkayya / पिंगली वेंकैया"
+  },
+  {
+    "id": 30,
+    "type": "text",
+    "subject": "Bharat Ki Pehchan (Buzzer)",
+    "question": "What is the National Heritage Animal of India?\nभारत का राष्ट्रीय विरासत पशु कौन है?",
+    "options": [
+      "Tiger / बाघ",
+      "Elephant / हाथी",
+      "Lion / सिंह",
+      "Rhinoceros / गैंडा"
+    ],
+    "answer": "Elephant / हाथी"
+  },
+  {
+    "id": 31,
+    "type": "text",
+    "subject": "Bharat Ki Pehchan (Buzzer)",
+    "question": "Who is known as the “Grand Old Man of India”?\n“भारत के ग्रैंड ओल्ड मैन” के नाम से कौन प्रसिद्ध थे?",
+    "options": [
+      "Dadabhai Naoroji / दादाभाई नौरोजी",
+      "Gopal Krishna Gokhale / गोपाल कृष्ण गोखले",
+      "Surendranath Banerjee / सुरेंद्रनाथ बनर्जी",
+      "Bal Gangadhar Tilak / बाल गंगाधर तिलक"
+    ],
+    "answer": "Dadabhai Naoroji / दादाभाई नौरोजी"
+  },
+  {
+    "id": 32,
+    "type": "text",
+    "subject": "Bharat Ki Pehchan (Buzzer)",
+    "question": "Who is known as the “Father of Indian Space Programme”?\n“भारतीय अंतरिक्ष कार्यक्रम के जनक” किसे कहा जाता है?",
+    "options": [
+      "A. P. J. Abdul Kalam / ए. पी. जे. अब्दुल कलाम",
+      "Vikram Sarabhai / विक्रम साराभाई",
+      "Satish Dhawan / सतीश धवन",
+      "Homi Bhabha / होमी भाभा"
+    ],
+    "answer": "Vikram Sarabhai / विक्रम साराभाई"
+  },
+  {
+    "id": 33,
+    "type": "text",
+    "subject": "Bharat Ki Pehchan (Buzzer)",
+    "question": "Who is known as the “Father of the Green Revolution in India”?\nभारत में “हरित क्रांति के जनक” किसे कहा जाता है?",
+    "options": [
+      "M. S. Swaminathan / एम. एस. स्वामीनाथन",
+      "Verghese Kurien / वर्गीज़ कुरियन",
+      "Norman Borlaug / नॉर्मन बोरलॉग",
+      "C. Subramaniam / सी. सुब्रमण्यम"
+    ],
+    "answer": "M. S. Swaminathan / एम. एस. स्वामीनाथन"
+  },
+  {
+    "id": 34,
+    "type": "text",
+    "subject": "Bharat Ki Pehchan (Buzzer)",
+    "question": "Which was the first Indian satellite launched by an Indian launch vehicle?\nभारतीय प्रक्षेपण यान द्वारा प्रक्षेपित पहला भारतीय उपग्रह कौन-सा था?",
+    "options": [
+      "Aryabhata / आर्यभट्ट",
+      "Rohini RS-1 / रोहिणी RS-1",
+      "Bhaskara-I / भास्कर-I",
+      "INSAT-1B / इनसैट-1B"
+    ],
+    "answer": "Rohini RS-1 / रोहिणी RS-1"
+  },
+  {
+    "id": 35,
+    "type": "text",
+    "subject": "Bharat Ki Pehchan (Buzzer)",
+    "question": "India's first indigenously designed and developed supersonic fighter aircraft is:\nभारत का पहला स्वदेशी रूप से डिजाइन और विकसित सुपरसोनिक लड़ाकू विमान कौन-सा है?",
+    "options": [
+      "HF-24 Marut / HF-24 मारुत",
+      "Tejas / तेजस",
+      "Su-30MKI / सुखोई-30MKI",
+      "MiG-29 / मिग-29"
+    ],
+    "answer": "Tejas / तेजस"
+  },
+  {
+    "id": 36,
+    "type": "text",
+    "subject": "Bharat Ki Pehchan (Buzzer)",
+    "question": "Mangalyaan is officially known as:\nमंगलयान का आधिकारिक नाम क्या है?",
+    "options": [
+      "Mars Orbiter Mission / मार्स ऑर्बिटर मिशन",
+      "Mars Exploration Vehicle / मार्स एक्सप्लोरेशन व्हीकल",
+      "Indian Mars Mission / इंडियन मार्स मिशन",
+      "Mars Survey Mission / मार्स सर्वे मिशन"
+    ],
+    "answer": "Mars Orbiter Mission / मार्स ऑर्बिटर मिशन"
+  },
     {
         "id": 37,
-        "type": "text",
-        "subject": "General Science",
-        "question": "The unit of force is:",
+        "type": "image",
+        "subject": "Tasveeron Mein Bharat",
+        "question": "यह प्रतीक किस भारतीय सेना की रेजिमेंट से संबंधित है?",
         "options": [
-            "Joule",
-            "Pascal",
-            "Newton",
-            "Watt"
+            "Kumaon Regiment / कुमाऊँ रेजिमेंट",
+            "Garhwal Rifles / गढ़वाल राइफल्स",
+            "Assam Rifles / असम राइफल्स",
+            "Gorkha Rifles / गोरखा राइफल्स"
         ],
-        "answer": "Newton"
+        "answer": "Garhwal Rifles / गढ़वाल राइफल्स",
+        "image": "image_01.png"
     },
     {
         "id": 38,
-        "type": "text",
-        "subject": "General Science",
-        "question": "Which vitamin helps in blood clotting?",
+        "type": "image",
+        "subject": "Tasveeron Mein Bharat",
+        "question": "Picture of the Indian scientist associated with India’s first nuclear test at Pokhran\nभारत के उस वैज्ञानिक की तस्वीर, जो पोखरण में भारत के पहले परमाणु परीक्षण से जुड़े थे, किसकी है?",
         "options": [
-            "Vitamin A",
-            "Vitamin B",
-            "Vitamin C",
-            "Vitamin K"
+            "Dr. Homi J. Bhabha / डॉ. होमी जे. भाभा",
+            "Dr. A.P.J. Abdul Kalam / डॉ. ए.पी.जे. अब्दुल कलाम",
+            "Dr. Raja Ramanna / डॉ. राजा रामन्ना",
+            "Vikram Sarabhai / विक्रम साराभाई"
         ],
-        "answer": "Vitamin K"
+        "answer": "Dr. Raja Ramanna / डॉ. राजा रामन्ना",
+        "image": "image_02.png"
     },
     {
         "id": 39,
-        "type": "text",
-        "subject": "General Science",
-        "question": "The movement of Earth around the Sun is called:",
+        "type": "image",
+        "subject": "Tasveeron Mein Bharat",
+        "question": "Picture of Mahatma Gandhi at the Dandi March\nदांडी मार्च की तस्वीर किस ऐतिहासिक आंदोलन से संबंधित है?",
         "options": [
-            "Rotation",
-            "Revolution",
-            "Oscillation",
-            "Translation"
+            "Quit India Movement / भारत छोड़ो आंदोलन",
+            "Non-Cooperation Movement / असहयोग आंदोलन",
+            "Civil Disobedience Movement / सविनय अवज्ञा आंदोलन",
+            "Swadeshi Movement / स्वदेशी आंदोलन"
         ],
-        "answer": "Revolution"
+        "answer": "Civil Disobedience Movement / सविनय अवज्ञा आंदोलन",
+        "image": "image_03.png"
     },
     {
         "id": 40,
-        "type": "text",
-        "subject": "General Science",
-        "question": "Sound cannot travel through",
+        "type": "image",
+        "subject": "Tasveeron Mein Bharat",
+        "question": "Picture of Rashtrapati Bhavan\nराष्ट्रपति भवन मूल रूप से किस नाम से जाना जाता था?",
         "options": [
-            "Air",
-            "Water",
-            "Vacuum",
-            "Solid"
+            "Viceroy’s House / वायसराय हाउस",
+            "Governor House / गवर्नर हाउस",
+            "Imperial Palace / इम्पीरियल पैलेस",
+            "King’s House / किंग्स हाउस"
         ],
-        "answer": "Vacuum"
+        "answer": "Viceroy’s House / वायसराय हाउस",
+        "image": "image_04.png"
     },
     {
         "id": 41,
-        "type": "text",
-        "subject": "General Science",
-        "question": "Which law explains why passengers fall forward when a bus stops suddenly?",
+        "type": "image",
+        "subject": "Tasveeron Mein Bharat",
+        "question": "Picture of Mangal Pandey\n1857 के विद्रोह से जुड़े इस सैनिक की पहचान कीजिए।",
         "options": [
-            "Newton’s First Law",
-            "Newton’s Second Law",
-            "Newton’s Third Law",
-            "Law of Gravitation"
+            "Mangal Pandey / मंगल पांडे",
+            "Tatya Tope / तात्या टोपे",
+            "Kunwar Singh / कुँवर सिंह",
+            " Nana Sahib / नाना साहेब"
         ],
-        "answer": "Newton’s First Law"
+        "answer": "Mangal Pandey / मंगल पांडे",
+        "image": "image_05.png"
     },
     {
         "id": 42,
-        "type": "text",
-        "subject": "General Science",
-        "question": "Heat is transferred in solids mainly by:",
+        "type": "image",
+        "subject": "Tasveeron Mein Bharat",
+        "question": "जलियांवाला बाग हत्याकांड का बदला लेने वाले स्वतंत्रता सेनानी की पहचान कीजिए।",
         "options": [
-            "Radiation",
-            "Conduction",
-            "Convection",
-            "Evaporation"
+            "Udham Singh / ऊधम सिंह",
+            "Lala Lajpat Rai / लाला लाजपत राय",
+            "Sukhdev / सुखदेव",
+            "Rajguru / राजगुरु"
         ],
-        "answer": "Conduction"
+        "answer": "Udham Singh / ऊधम सिंह",
+        "image": "image_06.png"
     },
     {
         "id": 43,
-        "type": "text",
-        "subject": "General Science",
-        "question": "Loudness of sound depends on:",
+        "type": "image",
+        "subject": "Tasveeron Mein Bharat",
+        "question": "Picture of the National War Memorial, New Delhi\nयह स्मारक किसके सम्मान में बनाया गया है?",
         "options": [
-            "Frequency",
-            "Speed",
-            "Amplitude",
-            "Wavelength"
+            "Freedom fighters / स्वतंत्रता सेनानी",
+            "Indian Armed Forces personnel who made the supreme sacrifice / सर्वोच्च बलिदान देने वाले भारतीय सशस्त्र बलों के जवान",
+            "Police personnel only / केवल पुलिसकर्मी",
+            "Political leaders / राजनीतिक नेता"
         ],
-        "answer": "Amplitude"
+        "answer": "Indian Armed Forces personnel who made the supreme sacrifice / सर्वोच्च बलिदान देने वाले भारतीय सशस्त्र बलों के जवान",
+        "image": "image_07.png"
     },
     {
         "id": 44,
-        "type": "text",
-        "subject": "General Science",
-        "question": "According to Ohm’s law, current is directly proportional to:",
+        "type": "image",
+        "subject": "Tasveeron Mein Bharat",
+        "question": "चित्र में दिखाई दे रहे इस भारतीय लड़ाकू विमान को पहचानिए।",
         "options": [
-            "Resistance",
-            "Power",
-            "Voltage",
-            "Length of wire"
+            "MiG-21 / मिग-21",
+            "HAL Tejas / एचएएल तेजस",
+            "Sukhoi Su-30MKI / सुखोई Su-30MKI",
+            "HAL HF-24 Marut / एचएफ-24 मारुत"
         ],
-        "answer": "Voltage"
+        "answer": "HAL Tejas / एचएएल तेजस",
+        "image": "image_08.png"
     },
     {
         "id": 45,
-        "type": "text",
-        "subject": "General Science",
-        "question": "A fuse wire has:",
+        "type": "image",
+        "subject": "Tasveeron Mein Bharat",
+        "question": "Identify the missile shown in the image.\nचित्र में दिखाई गई मिसाइल की पहचान करें।",
         "options": [
-            "High melting point",
-            "Low resistance",
-            "Low melting point",
-            "Thick diameter"
+            "Agni-V / अग्नि-V",
+            "Prithvi / पृथ्वी",
+            "BrahMos / ब्रह्मोस",
+            "Akash / आकाश"
         ],
-        "answer": "Low melting point"
+        "answer": "Agni-V / अग्नि-V",
+        "image": "image_09.png"
     },
     {
         "id": 46,
-        "type": "text",
-        "subject": "General Science",
-        "question": "Which device converts electrical energy into mechanical energy?",
-        "options": [
-            "Generator",
-            "Battery",
-            "Electric motor",
-            "Transformer"
-        ],
-        "answer": "Electric motor"
-    },
-    {
-        "id": 47,
-        "type": "text",
-        "subject": "General Science",
-        "question": "Sound travels fastest in:",
-        "options": [
-            "Air",
-            "Water",
-            "Vacuum",
-            "Solid"
-        ],
-        "answer": "Solid"
-    },
-    {
-        "id": 48,
-        "type": "text",
-        "subject": "General Science",
-        "question": "The phenomenon responsible for the formation of image in mirrors is:",
-        "options": [
-            "Refraction",
-            "Reflection",
-            "Dispersion",
-            "Diffraction"
-        ],
-        "answer": "Reflection"
-    },
-    {
-        "id": 49,
-        "type": "text",
-        "subject": "General Science",
-        "question": "SI Unit of Electric Conductance:",
-        "options": [
-            "Ohm",
-            "Mho",
-            "Siemens",
-            "Weber"
-        ],
-        "answer": "Siemens"
-    },
-    {
-        "id": 50,
-        "type": "text",
-        "subject": "General Science",
-        "question": "The weight of an object becomes zero when:",
-        "options": [
-            "It is thrown upward",
-            "It is at the center of Earth",
-            "It is moving",
-            "It is at rest"
-        ],
-        "answer": "It is at the center of Earth"
-    },
-    {
-        "id": 51,
-        "type": "text",
-        "subject": "Technology",
-        "question": "Which of the following is a secondary storage device?",
-        "options": [
-            "RAM",
-            "Cache",
-            "HDD",
-            "Register"
-        ],
-        "answer": "HDD"
-    },
-    {
-        "id": 52,
-        "type": "text",
-        "subject": "Technology",
-        "question": "Which of the following is a programming language?",
-        "options": [
-            "HTML",
-            "CSS",
-            "Dot Net",
-            "MATLAB"
-        ],
-        "answer": "MATLAB"
-    },
-    {
-        "id": 53,
-        "type": "text",
-        "subject": "Technology",
-        "question": "Which of the following is an example of application software?",
-        "options": [
-            "Linux",
-            "Windows",
-            "MS Word",
-            "BIOS"
-        ],
-        "answer": "MS Word"
-    },
-    {
-        "id": 54,
-        "type": "text",
-        "subject": "Technology",
-        "question": "Which of the following is an output device?",
-        "options": [
-            "Mouse",
-            "Scanner",
-            "Monitor",
-            "Keyboard"
-        ],
-        "answer": "Monitor"
-    },
-    {
-        "id": 55,
-        "type": "text",
-        "subject": "Technology",
-        "question": "Which of the following is an example of system software?",
-        "options": [
-            "MS Excel",
-            "Paint",
-            "Windows",
-            "Notepad"
-        ],
-        "answer": "Windows"
-    },
-    {
-        "id": 56,
-        "type": "text",
-        "subject": "Technology",
-        "question": "Which of the following is not a valid IPv4 address in networking?",
-        "options": [
-            "192.268.2.2",
-            "127.0.0.1",
-            "0xc0a80202",
-            "172.124.2.2"
-        ],
-        "answer": "192.268.2.2"
-    },
-    {
-        "id": 57,
-        "type": "text",
-        "subject": "Technology",
-        "question": "Which one of the following is not a CPU series?",
-        "options": [
-            "Pentium",
-            "Snapdragon",
-            "Athlon",
-            "GeForce"
-        ],
-        "answer": "GeForce"
-    },
-    {
-        "id": 58,
-        "type": "text",
-        "subject": "Technology",
-        "question": "Which of the following device cannot be used for paper printing?",
-        "options": [
-            "3D Printer",
-            "Laser Printer",
-            "Monochrome Printer",
-            "Plotter"
-        ],
-        "answer": "3D Printer"
-    },
-    {
-        "id": 59,
-        "type": "text",
-        "subject": "Technology",
-        "question": "Which of the following is not a communication medium?",
-        "options": [
-            "Optical fiber",
-            "Microwave",
-            "Router",
-            "Infrared"
-        ],
-        "answer": "Router"
-    },
-    {
-        "id": 60,
-        "type": "text",
-        "subject": "Technology",
-        "question": "Which of the following is not a storage media?",
-        "options": [
-            "Pendrive",
-            "Magnetic Tape",
-            "Memory Card",
-            "DVD Drive"
-        ],
-        "answer": "DVD Drive"
-    },
-    {
-        "id": 61,
-        "type": "text",
-        "subject": "Technology",
-        "question": "Which of the following is not a key on a standard keyboard?",
-        "options": [
-            "Home",
-            "End",
-            "Pause/Break",
-            "Run"
-        ],
-        "answer": "Run"
-    },
-    {
-        "id": 62,
-        "type": "text",
-        "subject": "Technology",
-        "question": "Which of the following is not a cyber attack?",
-        "options": [
-            "Phishing",
-            "Denial of Service (DOS)",
-            "Bruteforce",
-            "Catching"
-        ],
-        "answer": "Catching"
-    },
-    {
-        "id": 63,
-        "type": "text",
-        "subject": "Technology",
-        "question": "Which of the following is not a networking device?",
-        "options": [
-            "Firewall",
-            "Router",
-            "Network Card",
-            "Ethernet"
-        ],
-        "answer": "Ethernet"
-    },
-    {
-        "id": 64,
-        "type": "text",
-        "subject": "Technology",
-        "question": "Which of the following is not related to Artificial Intelligence?",
-        "options": [
-            "Machine Learning",
-            "Natural Language Processing",
-            "Word Processor",
-            "Robotics"
-        ],
-        "answer": "Word Processor"
-    },
-    {
-        "id": 65,
-        "type": "text",
-        "subject": "Technology",
-        "question": "Which type of document cannot be created in MS Office software package?",
-        "options": [
-            "Spreadsheet",
-            "Presentation",
-            "Database",
-            "3D Animation"
-        ],
-        "answer": "3D Animation"
-    },
-    {
-        "id": 66,
-        "type": "text",
-        "subject": "Technology",
-        "question": "Which of the following is not a search engine on Internet?",
-        "options": [
-            "Bing",
-            "Duckduckgo",
-            "Stackoverflow",
-            "Yahoo"
-        ],
-        "answer": "Stackoverflow"
-    },
-    {
-        "id": 67,
-        "type": "text",
-        "subject": "Technology",
-        "question": "Which of the following is not a variant of Microsoft Windows?",
-        "options": [
-            "Windows XP",
-            "Windows Server",
-            "Microsoft Projects",
-            "Windows ME"
-        ],
-        "answer": "Microsoft Projects"
-    },
-    {
-        "id": 68,
-        "type": "text",
-        "subject": "Technology",
-        "question": "Which of the following is not related to Software Development?",
-        "options": [
-            "Compiler",
-            "Intepreter",
-            "Debugger",
-            "Control Panel"
-        ],
-        "answer": "Control Panel"
-    },
-    {
-        "id": 69,
-        "type": "text",
-        "subject": "Technology",
-        "question": "Which of the following is not a part of Microsoft Office package?",
-        "options": [
-            "Access",
-            "Paint",
-            "Outlook",
-            "OneNote"
-        ],
-        "answer": "Paint"
-    },
-    {
-        "id": 70,
-        "type": "text",
-        "subject": "General Knowledge",
-        "question": "Which of the following rivers does not originate in the Himalayas?",
-        "options": [
-            "Ganga",
-            "Yamuna",
-            "Saraswati",
-            "Satluj"
-        ],
-        "answer": "Saraswati"
-    },
-    {
-        "id": 71,
-        "type": "text",
-        "subject": "General Knowledge",
-        "question": "Which of these forts is not in Rajasthan?",
-        "options": [
-            "Kumbhalgarh Fort",
-            "Chittorgarh Fort",
-            "Raigad Fort",
-            "Mehrangarh Fort"
-        ],
-        "answer": "Raigad Fort"
-    },
-    {
-        "id": 72,
-        "type": "text",
-        "subject": "General Knowledge",
-        "question": "Which city is called the “City of Lakes” in North India?",
-        "options": [
-            "Jaipur",
-            "Udaipur",
-            "Lucknow",
-            "Indore"
-        ],
-        "answer": "Udaipur"
-    },
-    {
-        "id": 73,
-        "type": "text",
-        "subject": "General Knowledge",
-        "question": "The “Bhakra Nangal Dam” is built on which river?",
-        "options": [
-            "Ganga",
-            "Satluj",
-            "Yamuna",
-            "Beas"
-        ],
-        "answer": "Satluj"
-    },
-    {
-        "id": 74,
-        "type": "text",
-        "subject": "General Knowledge",
-        "question": "Which city is considered the cultural capital of North India for classical music and dance?",
-        "options": [
-            "Lucknow",
-            "Varanasi",
-            "Jaipur",
-            "Amritsar"
-        ],
-        "answer": "Varanasi"
-    },
-    {
-        "id": 75,
-        "type": "text",
-        "subject": "General Knowledge",
-        "question": "Which is the highest peak in North India?",
-        "options": [
-            "Nanda Devi",
-            "Kangchenjunga",
-            "Trisul",
-            "Kamet"
-        ],
-        "answer": "Kangchenjunga"
-    },
-    {
-        "id": 76,
-        "type": "text",
-        "subject": "General Knowledge",
-        "question": "The headquarters of Indian Army Northern Command is located at:",
-        "options": [
-            "Jaipur",
-            "Udhampur",
-            "Chandigarh",
-            "Dehradun"
-        ],
-        "answer": "Udhampur"
-    },
-    {
-        "id": 77,
-        "type": "text",
-        "subject": "General Knowledge",
-        "question": "Which North Indian city hosts the “International Yoga Festival”?",
-        "options": [
-            "Rishikesh",
-            "Haridwar",
-            "Dehradun",
-            "Roorkee"
-        ],
-        "answer": "Rishikesh"
-    },
-    {
-        "id": 78,
-        "type": "text",
-        "subject": "General Knowledge",
-        "question": "As of 2025, how many Union Territories are there in India?",
-        "options": [
-            "6",
-            "7",
-            "8",
-            "9"
-        ],
-        "answer": "8"
-    },
-    {
-        "id": 79,
-        "type": "text",
-        "subject": "General Knowledge",
-        "question": "Which river is called the “Dakshin Ganga” (Ganga of the South)?",
-        "options": [
-            "Godavari",
-            "Kaveri",
-            "Krishna",
-            "Bhima"
-        ],
-        "answer": "Godavari"
-    },
-    {
-        "id": 80,
-        "type": "text",
-        "subject": "General Knowledge",
-        "question": "Which river passes through the famous Jim Corbett National Park?",
-        "options": [
-            "Ganga",
-            "Ramganga",
-            "Yamuna",
-            "Betwa"
-        ],
-        "answer": "Ramganga"
-    },
-    {
-        "id": 81,
-        "type": "text",
-        "subject": "General Knowledge",
-        "question": "Who presides over the joint session of Parliament?",
-        "options": [
-            "Speaker of Lok Sabha",
-            "Prime Minister",
-            "President of India",
-            "Chairman of Rajya Sabha"
-        ],
-        "answer": "President of India"
-    },
-    {
-        "id": 82,
-        "type": "text",
-        "subject": "General Knowledge",
-        "question": "The Vice-President of India is elected by:",
-        "options": [
-            "Members of Lok Sabha",
-            "Members of Rajya Sabha",
-            "Members of both Lok Sabha and Rajya Sabha",
-            "State Legislative Assemblies"
-        ],
-        "answer": "Members of both Lok Sabha and Rajya Sabha"
-    },
-    {
-        "id": 83,
-        "type": "text",
-        "subject": "History",
-        "question": "Which Mughal emperor built the Agra Fort?",
-        "options": [
-            "Shah Jahan",
-            "Akbar",
-            "Jahangir",
-            "Aurangzeb"
-        ],
-        "answer": "Akbar"
-    },
-    {
-        "id": 84,
-        "type": "text",
-        "subject": "History",
-        "question": "The famous Khajuraho Temples are associated with which dynasty?",
-        "options": [
-            "Maurya",
-            "Gupta",
-            "Chandela",
-            "Rajput"
-        ],
-        "answer": "Chandela"
-    },
-    {
-        "id": 85,
-        "type": "text",
-        "subject": "History",
-        "question": "When was Goa liberated from Portuguese rule and integrated into India?",
-        "options": [
-            "1947",
-            "1956",
-            "1961",
-            "1987"
-        ],
-        "answer": "1961"
-    },
-    {
-        "id": 86,
-        "type": "text",
-        "subject": "History",
-        "question": "The Iron Pillar at Mehrauli belongs to which dynasty?",
-        "options": [
-            "Maurya",
-            "Kushan",
-            "Gupta",
-            "Chandela"
-        ],
-        "answer": "Gupta"
-    },
-    {
-        "id": 87,
-        "type": "text",
-        "subject": "History",
-        "question": "The Mansabdari system was a feature of whose reign?",
-        "options": [
-            "Babur",
-            "Akbar",
-            "Jahangir",
-            "Shah Jahan"
-        ],
-        "answer": "Akbar"
-    },
-    {
-        "id": 88,
-        "type": "text",
-        "subject": "History",
-        "question": "The Battle of Plassey was fought between British East India Company and ____________:",
-        "options": [
-            "Tipu Sultan",
-            "Siraj-ud-Daulah",
-            "Mir Qasim",
-            "Haider Ali"
-        ],
-        "answer": "Siraj-ud-Daulah"
-    },
-    {
-        "id": 89,
-        "type": "text",
-        "subject": "History",
-        "question": "Who was the first Governor-General of British India?",
-        "options": [
-            "Lord Dalhousie",
-            "Warren Hastings",
-            "Lord Cornwallis",
-            "Robert Clive"
-        ],
-        "answer": "Warren Hastings"
-    },
-    {
-        "id": 90,
-        "type": "text",
-        "subject": "History",
-        "question": "The Revolt of 1857 began from:",
-        "options": [
-            "Delhi",
-            "Kanpur",
-            "Jhansi",
-            "Meerut"
-        ],
-        "answer": "Meerut"
-    },
-    {
-        "id": 91,
-        "type": "text",
-        "subject": "History",
-        "question": "The Green Revolution in India began during whose tenure as Prime Minister?",
-        "options": [
-            "Jawaharlal Nehru",
-            "Lal Bahadur Shastri",
-            "Indira Gandhi",
-            "Morarji Desai"
-        ],
-        "answer": "Lal Bahadur Shastri"
-    },
-    {
-        "id": 92,
-        "type": "text",
-        "subject": "History",
-        "question": "Which Indian Prime Minister gave the slogan “Jai Jawan, Jai Kisan”?",
-        "options": [
-            "Jawaharlal Nehru",
-            "Lal Bahadur Shastri",
-            "Indira Gandhi",
-            "Morarji Desai"
-        ],
-        "answer": "Lal Bahadur Shastri"
-    },
-    {
-        "id": 93,
-        "type": "text",
-        "subject": "History",
-        "question": "Who was the first Chief Election Commissioner of India?",
-        "options": [
-            "Sukumar Sen",
-            "TN Seshan",
-            "RK Trivedi",
-            "SP Mukherjee"
-        ],
-        "answer": "Sukumar Sen"
-    },
-    {
-        "id": 94,
-        "type": "text",
-        "subject": "Current Affairs",
-        "question": "Who was the Chief Guest at the Republic Day Parade 2025?",
-        "options": [
-            "US President",
-            "Indonesia President",
-            "French President",
-            "Japanese Prime Minister"
-        ],
-        "answer": "Indonesia President"
-    },
-    {
-        "id": 95,
-        "type": "text",
-        "subject": "Current Affairs",
-        "question": "India has expanded its UPI system internationally to which of these countries?",
-        "options": [
-            "UAE & Singapore",
-            "Thailand & Indonesia",
-            "Russia & Brazil",
-            "South Africa & Zimbabwe"
-        ],
-        "answer": "UAE & Singapore"
-    },
-    {
-        "id": 96,
-        "type": "text",
-        "subject": "Current Affairs",
-        "question": "Defence exports from India reached an all-time high of about:",
-        "options": [
-            "?10,000 crore",
-            "?15,000 crore",
-            "?23,000 crore",
-            "?50,000 crore"
-        ],
-        "answer": "?23,000 crore"
-    },
-    {
-        "id": 97,
-        "type": "text",
-        "subject": "Current Affairs",
-        "question": "Which state became India’s largest economy in 2024–25?",
-        "options": [
-            "Maharashtra",
-            "Gujarat",
-            "Karnataka",
-            "Tamil Nadu"
-        ],
-        "answer": "Maharashtra"
-    },
-    {
-        "id": 98,
-        "type": "text",
-        "subject": "Current Affairs",
-        "question": "India surpassed which country to become the third-largest solar power generator in the world?",
-        "options": [
-            "USA",
-            "China",
-            "Germany",
-            "Japan"
-        ],
-        "answer": "Japan"
-    },
-    {
-        "id": 99,
-        "type": "text",
-        "subject": "Current Affairs",
-        "question": "Operation Black Forest (2025) was launched against which threat?",
-        "options": [
-            "Border infiltration",
-            "Naxalite–Maoist insurgents",
-            "Cyber attacks",
-            "Piracy in Indian Ocean"
-        ],
-        "answer": "Naxalite–Maoist insurgents"
-    },
-    {
-        "id": 100,
-        "type": "text",
-        "subject": "Current Affairs",
-        "question": "The longest rail tunnel breakthrough in India (2025) was part of a project to connect:",
-        "options": [
-            "Rishikesh-Karnaprayag",
-            "Jammu-Srinagar",
-            "Kalka-Manali",
-            "Kolkata-Siliguri"
-        ],
-        "answer": "Rishikesh-Karnaprayag"
-    },
-    {
-        "id": 101,
-        "type": "text",
-        "subject": "Current Affairs",
-        "question": "Operation Brahma involved India’s humanitarian response to an earthquake in which country?",
-        "options": [
-            "Nepal",
-            "Bangladesh",
-            "Myanmar",
-            "Afghanistan"
-        ],
-        "answer": "Myanmar"
-    },
-    {
-        "id": 102,
-        "type": "text",
-        "subject": "Current Affairs",
-        "question": "he Government of India launched which digital education initiative to train citizens in basic AI skills?",
-        "options": [
-            "LearnAI India",
-            "YUVA AI for ALL",
-            "AI Bharat Mission",
-            "Digi AI Skill"
-        ],
-        "answer": "YUVA AI for ALL"
-    },
-    {
-        "id": 103,
-        "type": "text",
-        "subject": "Current Affairs",
-        "question": "Which foreign tech company announced a $17.5 billion investment in India’s cloud and AI infrastructure?",
-        "options": [
-            "Google",
-            "Microsoft",
-            "Apple",
-            "Amazon"
-        ],
-        "answer": "Microsoft"
-    },
-    {
-        "id": 104,
-        "type": "text",
-        "subject": "Current Affairs",
-        "question": "Which global cultural recognition did India receive in 2025 for Diwali?",
-        "options": [
-            "UNESCO World Heritage Site",
-            "UNESCO Cultural Heritage",
-            "UNESCO Intangible Cultural Heritage",
-            "UNESCO World Heritage Festival"
-        ],
-        "answer": "UNESCO Intangible Cultural Heritage"
-    },
-    {
-        "id": 105,
-        "type": "text",
-        "subject": "Current Affairs",
-        "question": "Which city in India was approved to host the 2030 Commonwealth Games?",
-        "options": [
-            "New Delhi",
-            "Pune",
-            "Ahmedabad",
-            "Gandhinagar"
-        ],
-        "answer": "Ahmedabad"
-    },
-    {
-        "id": 106,
-        "type": "text",
-        "subject": "Countries",
-        "question": "What is the capital of Ukraine?",
-        "options": [
-            "Kyiv",
-            "Odessa",
-            "Lviv",
-            "Kharkhiv"
-        ],
-        "answer": "Kyiv"
-    },
-    {
-        "id": 107,
-        "type": "text",
-        "subject": "Countries",
-        "question": "What is the capital of Sweden?",
-        "options": [
-            "Bern",
-            "Stockholm",
-            "Oslo",
-            "Helsinki"
-        ],
-        "answer": "Stockholm"
-    },
-    {
-        "id": 108,
-        "type": "text",
-        "subject": "Countries",
-        "question": "What is the capital of Israel?",
-        "options": [
-            "Tel Aviv",
-            "Haifa",
-            "Jerusalem",
-            "Beersheba"
-        ],
-        "answer": "Jerusalem"
-    },
-    {
-        "id": 109,
-        "type": "text",
-        "subject": "Countries",
-        "question": "What is the capital of Argentina?",
-        "options": [
-            "Peru",
-            "Buenos Aires",
-            "Madrid",
-            "Prague"
-        ],
-        "answer": "Buenos Aires"
-    },
-    {
-        "id": 110,
-        "type": "text",
-        "subject": "Countries",
-        "question": "Which country has the largest Muslim population?",
-        "options": [
-            "India",
-            "Pakistan",
-            "Indonesia",
-            "Malaysia"
-        ],
-        "answer": "Indonesia"
-    },
-    {
-        "id": 111,
-        "type": "text",
-        "subject": "Countries",
-        "question": "Which country has the longest coastline in the world?",
-        "options": [
-            "USA",
-            "Australia",
-            "Canada",
-            "Russia"
-        ],
-        "answer": "Canada"
-    },
-    {
-        "id": 112,
-        "type": "text",
-        "subject": "Countries",
-        "question": "Which country has the highest population density in the world?",
-        "options": [
-            "Bangladesh",
-            "India",
-            "Monaco",
-            "Hong Kong"
-        ],
-        "answer": "Monaco"
-    },
-    {
-        "id": 113,
-        "type": "text",
-        "subject": "Countries",
-        "question": "Which country uses the Yen as its currency?",
-        "options": [
-            "China",
-            "Thailand",
-            "South Korea",
-            "Japan"
-        ],
-        "answer": "Japan"
-    },
-    {
-        "id": 114,
-        "type": "text",
-        "subject": "Countries",
-        "question": "Which country has the most volcanoes?",
-        "options": [
-            "Australia",
-            "Japan",
-            "Indonesia",
-            "Vietnam"
-        ],
-        "answer": "Indonesia"
-    },
-    {
-        "id": 115,
-        "type": "text",
-        "subject": "DRDO Round",
-        "question": "CAIR is part of which DRDO Technology Cluster?",
-        "options": [
-            "MSS",
-            "ECS",
-            "MCC",
-            "AERO"
-        ],
-        "answer": "MCC"
-    },
-    {
-        "id": 116,
-        "type": "text",
-        "subject": "DRDO Round",
-        "question": "Which of the following is not a Young Scientist Laboratory of DRDO?",
-        "options": [
-            "Quantum Technology",
-            "Asymmetric Technologies",
-            "Strategic Technologies",
-            "Cognitive Technologies"
-        ],
-        "answer": "Strategic Technologies"
-    },
-    {
-        "id": 117,
-        "type": "text",
-        "subject": "DRDO Round",
-        "question": "CFEES is part of which DRDO Cluster?",
-        "options": [
-            "SSS",
-            "ACE",
-            "MCC",
-            "SAM"
-        ],
-        "answer": "ACE"
-    },
-    {
-        "id": 118,
-        "type": "text",
-        "subject": "DRDO Round",
-        "question": "DIITM is part of which DRDO Corporate Cluster?",
-        "options": [
-            "HR",
-            "TM",
-            "PC&SI",
-            "R&M"
-        ],
-        "answer": "PC&SI"
-    },
-    {
-        "id": 119,
-        "type": "text",
-        "subject": "DRDO Round",
-        "question": "DP&C is part of which DRDO Corporate Cluster?",
-        "options": [
-            "HR",
-            "TM",
-            "PC&SI",
-            "R&M"
-        ],
-        "answer": "R&M"
-    },
-    {
-        "id": 120,
-        "type": "text",
-        "subject": "DRDO Round",
-        "question": "DRDO’s indigenous Very Short Range Air Defence System is known as",
-        "options": [
-            "AKASH",
-            "SHORADS",
-            "VSHORADS",
-            "HAWK AD"
-        ],
-        "answer": "VSHORADS"
-    },
-    {
-        "id": 121,
-        "type": "text",
-        "subject": "DRDO Round",
-        "question": "Astra is a type of:",
-        "options": [
-            "Anti-tank missile",
-            "Air-to-air missile",
-            "Surface-to-air missile",
-            "Cruise missile"
-        ],
-        "answer": "Air-to-air missile"
-    },
-    {
-        "id": 122,
-        "type": "text",
-        "subject": "DRDO Round",
-        "question": "Pinaka is a:",
-        "options": [
-            "Short-range ballistic missile",
-            "Multi-barrel rocket launcher",
-            "Air defense missile",
-            "UAV"
-        ],
-        "answer": "Multi-barrel rocket launcher"
-    },
-    {
-        "id": 123,
-        "type": "text",
-        "subject": "DRDO Round",
-        "question": "DRDO developed Nirbhay missile is a:",
-        "options": [
-            "Short-range ballistic missile",
-            "Anti-tank missile",
-            "Subsonic cruise missile",
-            "Surface-to-air missile"
-        ],
-        "answer": "Subsonic cruise missile"
-    },
-    {
-        "id": 124,
-        "type": "text",
-        "subject": "DRDO Round",
-        "question": "DRDO developed HELINA and Dhruvastra are types of:",
-        "options": [
-            "Short-range ballistic missile",
-            "Anti-tank guided missile",
-            "Subsonic cruise missile",
-            "Surface-to-air missile"
-        ],
-        "answer": "Anti-tank guided missile"
-    },
-    {
-        "id": 125,
-        "type": "text",
-        "subject": "DRDO Round",
-        "question": "Which DRDO product is a hybrid propulsion missile?",
-        "options": [
-            "Prithvi",
-            "Shaurya",
-            "Nirbhay",
-            "Akash"
-        ],
-        "answer": "Nirbhay"
-    },
-    {
-        "id": 126,
-        "type": "text",
-        "subject": "DRDO Round",
-        "question": "What does LRDE stand for?",
-        "options": [
-            "Light Radar Development Establishment",
-            "Laser Research and Development Establishment",
-            "Electronics Radar Development Establishment",
-            "Electronics Research and Development Establishment"
-        ],
-        "answer": "Electronics Research and Development Establishment"
-    },
-    {
-        "id": 127,
-        "type": "text",
-        "subject": "DRDO Round",
-        "question": "What does CEMILAC stand for?",
-        "options": [
-            "Centre for Military Aeronautical Laboratory and Certification",
-            "Centre for Military Aircraft Airworthiness Systems",
-            "Centre for Military Airworthiness and Certification",
-            "Centre for Electronics and Military Aircraft Certification"
-        ],
-        "answer": "Centre for Military Airworthiness and Certification"
-    },
-    {
-        "id": 128,
-        "type": "text",
-        "subject": "DRDO Round",
-        "question": "Which of the following is NOT an MSS cluster laboratory of DRDO",
-        "options": [
-            "TBRL",
-            "ASL",
-            "RCI",
-            "GTRE"
-        ],
-        "answer": "GTRE"
+        "type": "image",
+        "subject": "Tasveeron Mein Bharat",
+        "question": "Identify the indigenous main battle tank associated with DRDO.\nDRDO से जुड़े स्वदेशी मुख्य युद्धक टैंक की पहचान करें।",
+        "options": [
+            "Arjun / अर्जुन",
+            "T-90 / टी-90",
+            "T-72 / टी-72",
+            "BMP-2 / BMP-2"
+        ],
+        "answer": "Arjun / अर्जुन",
+        "image": "image_10.png"
     }
 ]
