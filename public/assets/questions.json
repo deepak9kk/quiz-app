@@ -606,5 +606,70 @@
         ],
         "answer": "A. Arjun / अर्जुन",
         "image": "image_10.png"
-    }
+    },
+     {
+    "id": 47,
+    "type": "text",
+    "subject": "Slogans, Quotes & Wars",
+    "question": "Who gave the slogan “Sare Jahan Se Achha”?\n“सारे जहाँ से अच्छा” किसने लिखा था?",
+    "options": [
+      "A. Muhammad Iqbal / मुहम्मद इकबाल",
+      "B. Rabindranath Tagore / रवीन्द्रनाथ टैगोर",
+      "C. Bankim Chandra / बंकिम चंद्र",
+      "D. Hasrat Mohani / हसरत मोहानी"
+    ],
+    "answer": "A. Muhammad Iqbal / मुहम्मद इकबाल"
+  },
+  {
+    "id": 48,
+    "type": "text",
+    "subject": "Slogans, Quotes & Wars",
+    "question": "Who gave the slogan “Vande Mataram” its political prominence during the Swadeshi Movement?\nस्वदेशी आंदोलन के दौरान “वंदे मातरम्” को राजनीतिक रूप से लोकप्रिय बनाने में किसका प्रमुख योगदान था?",
+    "options": [
+      "A. Bankim Chandra Chattopadhyay / बंकिम चंद्र चट्टोपाध्याय",
+      "B. Aurobindo Ghosh / अरविंद घोष",
+      "C. Dadabhai Naoroji / दादाभाई नौरोजी",
+      "D. Gopal Krishna Gokhale / गोपाल कृष्ण गोखले"
+    ],
+    "answer": "B. Aurobindo Ghosh / अरविंद घोष"
+  },
+  {
+    "id": 49,
+    "type": "text",
+    "subject": "Slogans, Quotes & Wars",
+    "question": "The Champaran Satyagraha took place in:\nचंपारण सत्याग्रह किस वर्ष हुआ था?",
+    "options": [
+      "A. 1915",
+      "B. 1917",
+      "C. 1919",
+      "D. 1920"
+    ],
+    "answer": "B. 1917"
+  },
+  {
+    "id": 50,
+    "type": "text",
+    "subject": "Slogans, Quotes & Wars",
+    "question": "Operation Vijay is associated with which conflict?\nऑपरेशन विजय किस संघर्ष से संबंधित है?",
+    "options": [
+      "A. 1965 Indo-Pak War / 1965 भारत-पाक युद्ध",
+      "B. 1971 Indo-Pak War / 1971 भारत-पाक युद्ध",
+      "C. Kargil War, 1999 / कारगिल युद्ध, 1999",
+      "D. Goa Liberation / गोवा मुक्ति"
+    ],
+    "answer": "C. Kargil War, 1999 / कारगिल युद्ध, 1999"
+  },
+  {
+    "id": 51,
+    "type": "text",
+    "subject": "Slogans, Quotes & Wars",
+    "question": "Operation Meghdoot was launched in:\nऑपरेशन मेघदूत किस वर्ष शुरू किया गया था?",
+    "options": [
+      "A. 1971",
+      "B. 1984",
+      "C. 1987",
+      "D. 1999"
+    ],
+    "answer": "B. 1984"
+  }
 ]
