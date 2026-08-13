@@ -3,27 +3,27 @@
         "id": 1,
         "type": "text",
         "subject": "Slogans, Quotes & Wars",
-        "question": "1. Who is credited with coining the slogan “Inquilab Zindabad”?\n“इंकलाब ज़िंदाबाद” का नारा देने का श्रेय किसे दिया जाता है?",
+        "question": "Who is credited with coining the slogan “Inquilab Zindabad”?\n“इंकलाब ज़िंदाबाद” का नारा देने का श्रेय किसे दिया जाता है?",
         "options": [
-            "Bhagat Singh / भगत सिंह",
-            "Subhas Chandra Bose / सुभाष चंद्र बोस",
-            "Hasrat Mohani / हसरत मोहानी",
-            "Chandrashekhar Azad / चंद्रशेखर आज़ाद"
+            "A.Bhagat Singh / भगत सिंह",
+            "B. Subhas Chandra Bose / सुभाष चंद्र बोस",
+            "C. Hasrat Mohani / हसरत मोहानी",
+            "D. Chandrashekhar Azad / चंद्रशेखर आज़ाद"
         ],
-        "answer": "Hasrat Mohani / हसरत मोहानी"
+        "answer": "C. Hasrat Mohani / हसरत मोहानी"
     },
     {
         "id": 2,
         "type": "text",
         "subject": "Slogans, Quotes & Wars",
-        "question": "2. Swaraj is my birthright and I shall have it” was said by\n“स्वराज मेरा जन्मसिद्ध अधिकार है और मैं इसे लेकर रहूँगा” किसने कहा था?",
+        "question": "Swaraj is my birthright and I shall have it” was said by\n“स्वराज मेरा जन्मसिद्ध अधिकार है और मैं इसे लेकर रहूँगा” किसने कहा था?",
         "options": [
-            "Lala Lajpat Rai / लाला लाजपत रायr",
-            "Bal Gangadhar Tilak / बाल गंगाधर तिलक",
-            "Bipin Chandra Pal / बिपिन चंद्र पाल",
-            "Gopal Krishna Gokhale / गोपाल कृष्ण गोखले"
+            "A. Lala Lajpat Rai / लाला लाजपत रायr",
+            "B. Bal Gangadhar Tilak / बाल गंगाधर तिलक",
+            "C. Bipin Chandra Pal / बिपिन चंद्र पाल",
+            "D. Gopal Krishna Gokhale / गोपाल कृष्ण गोखले"
         ],
-        "answer": "Bal Gangadhar Tilak / बाल गंगाधर तिलक"
+        "answer": "B. Bal Gangadhar Tilak / बाल गंगाधर तिलक"
     },
     {
         "id": 3,
@@ -31,12 +31,12 @@
         "subject": "Slogans, Quotes & Wars",
         "question": "“Government of the people, by the people, for the people” was said by\n“जनता की सरकार, जनता द्वारा, जनता के लिए” किसने कहा था?",
         "options": [
-            "Thomas Jefferson / थॉमस जेफरसन",
-            "Abraham Lincoln / अब्राहम लिंकन",
-            "George Washington / जॉर्ज वॉशिंगटन",
-            "Winston Churchill / विंस्टन चर्चिल"
+            "A. Thomas Jefferson / थॉमस जेफरसन",
+            "B. Abraham Lincoln / अब्राहम लिंकन",
+            "C. George Washington / जॉर्ज वॉशिंगटन",
+            "D. Winston Churchill / विंस्टन चर्चिल"
         ],
-        "answer": "Abraham Lincoln / अब्राहम लिंकन"
+        "answer": "B. Abraham Lincoln / अब्राहम लिंकन"
     },
    {
     "id": 4,
@@ -44,12 +44,12 @@
     "subject": "Slogans, Quotes & Wars",
     "question": "Jawaharlal Nehru delivered the “Tryst with Destiny” speech on:\nजवाहरलाल नेहरू ने “Tryst with Destiny” भाषण कब दिया था?",
     "options": [
-      "26 January 1950 / 26 जनवरी 1950",
-      "15 August 1947 / 15 अगस्त 1947",
-      "14 August 1947 / 14 अगस्त 1947",
-      "9 August 1942 / 9 अगस्त 1942"
+      "A. 26 January 1950 / 26 जनवरी 1950",
+      "B. 15 August 1947 / 15 अगस्त 1947",
+      "C. 14 August 1947 / 14 अगस्त 1947",
+      "D. 9 August 1942 / 9 अगस्त 1942"
     ],
-    "answer": "14 August 1947 / 14 अगस्त 1947"
+    "answer": "C. 14 August 1947 / 14 अगस्त 1947"
   },
   {
     "id": 5,
@@ -57,12 +57,12 @@
     "subject": "Slogans, Quotes & Wars",
     "question": "“Purna Swaraj” was officially adopted at which Congress session?\n“पूर्ण स्वराज” को आधिकारिक रूप से कांग्रेस के किस अधिवेशन में अपनाया गया?",
     "options": [
-      "Lahore, 1929 / लाहौर, 1929",
-      "Lucknow, 1916 / लखनऊ, 1916",
-      "Calcutta, 1920 / कलकत्ता, 1920",
-      "Karachi, 1931 / कराची, 1931"
+      "A. Lahore, 1929 / लाहौर, 1929",
+      "B. Lucknow, 1916 / लखनऊ, 1916",
+      "C. Calcutta, 1920 / कलकत्ता, 1920",
+      "D. Karachi, 1931 / कराची, 1931"
     ],
-    "answer": "Lahore, 1929 / लाहौर, 1929"
+    "answer": "A. Lahore, 1929 / लाहौर, 1929"
   },
   {
     "id": 6,
@@ -70,12 +70,12 @@
     "subject": "Slogans, Quotes & Wars",
     "question": "The Indian Independence Act was passed in:\nभारतीय स्वतंत्रता अधिनियम किस वर्ष पारित हुआ?",
     "options": [
-      "June 1947 / जून 1947",
-      "July 1947 / जुलाई 1947",
-      "August 1947 / अगस्त 1947",
-      "September 1947 / सितंबर 1947"
+      "A. June 1947 / जून 1947",
+      "B. July 1947 / जुलाई 1947",
+      "C. August 1947 / अगस्त 1947",
+      "D. September 1947 / सितंबर 1947"
     ],
-    "answer": "July 1947 / जुलाई 1947"
+    "answer": "B. July 1947 / जुलाई 1947"
   },
   {
     "id": 7,
@@ -83,12 +83,12 @@
     "subject": "Slogans, Quotes & Wars",
     "question": "“Jai Hind” was coined/popularized within the INA by:\nINA में “जय हिंद” को लोकप्रिय बनाने का श्रेय किसे दिया जाता है?",
     "options": [
-      "Abid Hasan Safrani / आबिद हसन सफ़रानी",
-      "Rash Behari Bose / रास बिहारी बोस",
-      "Shah Nawaz Khan / शाह नवाज़ खान",
-      "Lakshmi Sahgal / लक्ष्मी सहगल"
+      "A. Abid Hasan Safrani / आबिद हसन सफ़रानी",
+      "B. Rash Behari Bose / रास बिहारी बोस",
+      "C. Shah Nawaz Khan / शाह नवाज़ खान",
+      "D. Lakshmi Sahgal / लक्ष्मी सहगल"
     ],
-    "answer": "Abid Hasan Safrani / आबिद हसन सफ़रानी"
+    "answer": "A. Abid Hasan Safrani / आबिद हसन सफ़रानी"
   },
   {
     "id": 8,
@@ -96,12 +96,12 @@
     "subject": "Slogans, Quotes & Wars",
     "question": "“Satyameva Jayate” is taken from:\n“सत्यमेव जयते” किससे लिया गया है?",
     "options": [
-      "Rig Veda / ऋग्वेद",
-      "Bhagavad Gita / भगवद्गीता",
-      "Mundaka Upanishad / मुंडक उपनिषद",
-      "Ramayana / रामायण"
+      "A. Rig Veda / ऋग्वेद",
+      "B. Bhagavad Gita / भगवद्गीता",
+      "C. Mundaka Upanishad / मुंडक उपनिषद",
+      "D. Ramayana / रामायण"
     ],
-    "answer": "Mundaka Upanishad / मुंडक उपनिषद"
+    "answer": "C. Mundaka Upanishad / मुंडक उपनिषद"
   },
   {
     "id": 9,
@@ -109,12 +109,12 @@
     "subject": "Slogans, Quotes & Wars",
     "question": "The Revolt of 1857 began at:\n1857 का विद्रोह कहाँ से शुरू हुआ?",
     "options": [
-      "Delhi / दिल्ली",
-      "Kanpur / कानपुर",
-      "Meerut / मेरठ",
-      "Lucknow / लखनऊ"
+      "A. Delhi / दिल्ली",
+      "B. Kanpur / कानपुर",
+      "C. Meerut / मेरठ",
+      "D. Lucknow / लखनऊ"
     ],
-    "answer": "Meerut / मेरठ"
+    "answer": "C. Meerut / मेरठ"
   },
   {
     "id": 10,
@@ -122,12 +122,12 @@
     "subject": "Slogans, Quotes & Wars",
     "question": "Indian National Congress was founded in:\nभारतीय राष्ट्रीय कांग्रेस की स्थापना किस वर्ष हुई?",
     "options": [
-      "1883",
-      "1885",
-      "1887",
-      "1890"
+      "A. 1883",
+      "B. 1885",
+      "C. 1887",
+      "D. 1890"
     ],
-    "answer": "1885"
+    "answer": "B. 1885"
   },
   {
     "id": 11,
@@ -135,12 +135,12 @@
     "subject": "Slogans, Quotes & Wars",
     "question": "Dandi March began on:\nदांडी मार्च कब शुरू हुआ?",
     "options": [
-      "12 March 1930 / 12 मार्च 1930",
-      "6 April 1930 / 6 अप्रैल 1930",
-      "26 January 1930 / 26 जनवरी 1930",
-      "8 August 1942 / 8 अगस्त 1942"
+      "A. 12 March 1930 / 12 मार्च 1930",
+      "B. 6 April 1930 / 6 अप्रैल 1930",
+      "C. 26 January 1930 / 26 जनवरी 1930",
+      "D. 8 August 1942 / 8 अगस्त 1942"
     ],
-    "answer": "12 March 1930 / 12 मार्च 1930"
+    "answer": "A. 12 March 1930 / 12 मार्च 1930"
   },
   {
     "id": 12,
@@ -148,12 +148,12 @@
     "subject": "Slogans, Quotes & Wars",
     "question": "Chauri Chaura incident occurred in:\nचौरी-चौरा कांड किस वर्ष हुआ?",
     "options": [
-      "1920",
-      "1921",
-      "1922",
-      "1923"
+      "A. 1920",
+      "B. 1921",
+      "C. 1922",
+      "D. 1923"
     ],
-    "answer": "1922"
+    "answer": "C. 1922"
   },
   {
     "id": 13,
@@ -161,12 +161,12 @@
     "subject": "Slogans, Quotes & Wars",
     "question": "Jallianwala Bagh massacre occurred on:\nजलियांवाला बाग हत्याकांड कब हुआ?",
     "options": [
-      "6 April 1919 / 6 अप्रैल 1919",
-      "13 April 1919 / 13 अप्रैल 1919",
-      "15 August 1919 / 15 अगस्त 1919",
-      "26 January 1920 / 26 जनवरी 1920"
+      "A. 6 April 1919 / 6 अप्रैल 1919",
+      "B. 13 April 1919 / 13 अप्रैल 1919",
+      "C. 15 August 1919 / 15 अगस्त 1919",
+      "D. 26 January 1920 / 26 जनवरी 1920"
     ],
-    "answer": "13 April 1919 / 13 अप्रैल 1919"
+    "answer": "B. 13 April 1919 / 13 अप्रैल 1919"
   },
   {
     "id": 14,
@@ -174,12 +174,12 @@
     "subject": "Slogans, Quotes & Wars",
     "question": "Operation Barbarossa was launched in:\nऑपरेशन बारबारोसा किस वर्ष शुरू हुआ?",
     "options": [
-      "1939",
-      "1940",
-      "1941",
-      "1942"
+      "A. 1939",
+      "B. 1940",
+      "C. 1941",
+      "D. 1942"
     ],
-    "answer": "1941"
+    "answer": "C. 1941"
   },
   {
     "id": 15,
@@ -187,12 +187,12 @@
     "subject": "Slogans, Quotes & Wars",
     "question": "Atomic bomb was dropped on Hiroshima on:\nहिरोशिमा पर परमाणु बम कब गिराया गया?",
     "options": [
-      "6 August 1945 / 6 अगस्त 1945",
-      "9 August 1945 / 9 अगस्त 1945",
-      "15 August 1945 / 15 अगस्त 1945",
-      "2 September 1945 / 2 सितंबर 1945"
+      "A. 6 August 1945 / 6 अगस्त 1945",
+      "B. 9 August 1945 / 9 अगस्त 1945",
+      "C. 15 August 1945 / 15 अगस्त 1945",
+      "D. 2 September 1945 / 2 सितंबर 1945"
     ],
-    "answer": "6 August 1945 / 6 अगस्त 1945"
+    "answer": "A. 6 August 1945 / 6 अगस्त 1945"
   },
   {
     "id": 16,
@@ -200,12 +200,12 @@
     "subject": "Slogans, Quotes & Wars",
     "question": "Third Battle of Panipat was fought between Marathas and:\nपानीपत का तीसरा युद्ध मराठों और किसके बीच हुआ?",
     "options": [
-      "Nadir Shah / नादिर शाह",
-      "Ahmad Shah Abdali / अहमद शाह अब्दाली",
-      "Tipu Sultan / टीपू सुल्तान",
-      "Siraj-ud-daulah / सिराज-उद-दौला"
+      "A. Nadir Shah / नादिर शाह",
+      "B. Ahmad Shah Abdali / अहमद शाह अब्दाली",
+      "C. Tipu Sultan / टीपू सुल्तान",
+      "D. Siraj-ud-daulah / सिराज-उद-दौला"
     ],
-    "answer": "Ahmad Shah Abdali / अहमद शाह अब्दाली"
+    "answer": "B. Ahmad Shah Abdali / अहमद शाह अब्दाली"
   },
   {
     "id": 17,
@@ -213,12 +213,12 @@
     "subject": "Slogans, Quotes & Wars",
     "question": "The Kargil War between India and Pakistan took place in:\nभारत और पाकिस्तान के बीच कारगिल युद्ध किस वर्ष हुआ था?",
     "options": [
-      "1971",
-      "1984",
-      "1998",
-      "1999"
+      "A. 1971",
+      "B. 1984",
+      "C. 1998",
+      "D. 1999"
     ],
-    "answer": "1999"
+    "answer": "D. 1999"
   },
   {
     "id": 18,
@@ -226,12 +226,12 @@
     "subject": "Slogans, Quotes & Wars",
     "question": "The Indo-Pak War of 1971 resulted in the creation of:\n1971 के भारत-पाक युद्ध के परिणामस्वरूप किस देश का निर्माण हुआ?",
     "options": [
-      "Nepal / नेपाल",
-      "Bangladesh / बांग्लादेश",
-      "Bhutan / भूटान",
-      "Sri Lanka / श्रीलंका"
+      "A. Nepal / नेपाल",
+      "B. Bangladesh / बांग्लादेश",
+      "C. Bhutan / भूटान",
+      "D. Sri Lanka / श्रीलंका"
     ],
-    "answer": "Bangladesh / बांग्लादेश"
+    "answer": "B. Bangladesh / बांग्लादेश"
   },
    {
     "id": 19,
@@ -239,12 +239,12 @@
     "subject": "Slogans, Quotes & Wars",
     "question": "Rani Lakshmibai died in the Battle of Kotah-ki-Serai near:\nरानी लक्ष्मीबाई कोटाह-की-सराय के युद्ध में किस स्थान के पास वीरगति को प्राप्त हुईं?",
     "options": [
-      "Jhansi / झाँसी",
-      "Kanpur / कानपुर",
-      "Gwalior / ग्वालियर",
-      "Lucknow / लखनऊ"
+      "A. Jhansi / झाँसी",
+      "B. Kanpur / कानपुर",
+      "C. Gwalior / ग्वालियर",
+      "D. Lucknow / लखनऊ"
     ],
-    "answer": "Gwalior / ग्वालियर"
+    "answer": "C. Gwalior / ग्वालियर"
   },
   {
     "id": 20,
@@ -252,12 +252,12 @@
     "subject": "Slogans, Quotes & Wars",
     "question": "Who is famously associated with the Peshawar Incident of 1930?\n1930 के पेशावर कांड से किसका नाम प्रमुख रूप से जुड़ा है?",
     "options": [
-      "Govind Ballabh Pant / गोविंद बल्लभ पंत",
-      "Chandra Singh Garhwali / चंद्र सिंह गढ़वाली",
-      "Sri Dev Suman / श्री देव सुमन",
-      "Badri Datt Pandey / बद्री दत्त पांडे"
+      "A. Govind Ballabh Pant / गोविंद बल्लभ पंत",
+      "B. Chandra Singh Garhwali / चंद्र सिंह गढ़वाली",
+      "C. Sri Dev Suman / श्री देव सुमन",
+      "D. Badri Datt Pandey / बद्री दत्त पांडे"
     ],
-    "answer": "Chandra Singh Garhwali / चंद्र सिंह गढ़वाली"
+    "answer": "B. Chandra Singh Garhwali / चंद्र सिंह गढ़वाली"
   },
   {
     "id": 21,
@@ -265,12 +265,12 @@
     "subject": "Slogans, Quotes & Wars",
     "question": "The Coolie-Begar Movement was primarily directed against:\nकुली-बेगार आंदोलन मुख्यतः किसके विरोध में था?",
     "options": [
-      "Forest fires / वनाग्नि",
-      "Forced and unpaid labour / जबरन एवं बिना भुगतान के श्रम",
-      "Salt tax / नमक कर",
-      "Land revenue only / केवल भूमि कर"
+      "A. Forest fires / वनाग्नि",
+      "B. Forced and unpaid labour / जबरन एवं बिना भुगतान के श्रम",
+      "C. Salt tax / नमक कर",
+      "D. Land revenue only / केवल भूमि कर"
     ],
-    "answer": "Forced and unpaid labour / जबरन एवं बिना भुगतान के श्रम"
+    "answer": "B. Forced and unpaid labour / जबरन एवं बिना भुगतान के श्रम"
   },
   {
     "id": 22,
@@ -278,12 +278,12 @@
     "subject": "Bharat Ki Pehchan (Buzzer)",
     "question": "Who designed the Indian National Flag?\nभारत के राष्ट्रीय ध्वज का डिजाइन किसने तैयार किया था?",
     "options": [
-      "Pingali Venkayya / पिंगली वेंकैया",
-      "Abanindranath Tagore / अवनींद्रनाथ टैगोर",
-      "Nandalal Bose / नंदलाल बोस",
-      "Bankim Chandra Chattopadhyay / बंकिम चंद्र चट्टोपाध्याय"
+      "A. Pingali Venkayya / पिंगली वेंकैया",
+      "B. Abanindranath Tagore / अवनींद्रनाथ टैगोर",
+      "C. Nandalal Bose / नंदलाल बोस",
+      "D. Bankim Chandra Chattopadhyay / बंकिम चंद्र चट्टोपाध्याय"
     ],
-    "answer": "Pingali Venkayya / पिंगली वेंकैया"
+    "answer": "A. Pingali Venkayya / पिंगली वेंकैया"
   },
   {
     "id": 23,
@@ -291,12 +291,12 @@
     "subject": "Bharat Ki Pehchan (Buzzer)",
     "question": "Indian Constitution Day is observed on:\nभारत में संविधान दिवस कब मनाया जाता है?",
     "options": [
-      "15 August / 15 अगस्त",
-      "26 January / 26 जनवरी",
-      "26 November / 26 नवंबर",
-      "2 October / 2 अक्टूबर"
+      "A. 15 August / 15 अगस्त",
+      "B. 26 January / 26 जनवरी",
+      "C. 26 November / 26 नवंबर",
+      "D. 2 October / 2 अक्टूबर"
     ],
-    "answer": "26 November / 26 नवंबर"
+    "answer": "B. 26 November / 26 नवंबर"
   },
   {
     "id": 24,
@@ -304,12 +304,12 @@
     "subject": "Bharat Ki Pehchan (Buzzer)",
     "question": "National Unity Day is celebrated on the birth anniversary of:\nराष्ट्रीय एकता दिवस किसकी जयंती पर मनाया जाता है?",
     "options": [
-      "Mahatma Gandhi / महात्मा गांधी",
-      "Sardar Vallabhbhai Patel / सरदार वल्लभभाई पटेल",
-      "Subhas Chandra Bose / सुभाष चंद्र बोस",
-      "Jawaharlal Nehru / जवाहरलाल नेहरू"
+      "A. Mahatma Gandhi / महात्मा गांधी",
+      "B. Sardar Vallabhbhai Patel / सरदार वल्लभभाई पटेल",
+      "C. Subhas Chandra Bose / सुभाष चंद्र बोस",
+      "D. Jawaharlal Nehru / जवाहरलाल नेहरू"
     ],
-    "answer": "Sardar Vallabhbhai Patel / सरदार वल्लभभाई पटेल"
+    "answer": "B. Sardar Vallabhbhai Patel / सरदार वल्लभभाई पटेल"
   },
   {
     "id": 25,
@@ -317,12 +317,12 @@
     "subject": "Bharat Ki Pehchan (Buzzer)",
     "question": "The fourth lion of the Lion Capital is:\nसिंह स्तंभ का चौथा सिंह कहाँ स्थित है?",
     "options": [
-      "Broken / टूटा हुआ है",
-      "Facing downward / नीचे की ओर है",
-      "Facing backward and not visible / पीछे की ओर है और दिखाई नहीं देता",
-      "Kept separately / अलग रखा गया है"
+      "A. Broken / टूटा हुआ है",
+      "B. Facing downward / नीचे की ओर है",
+      "C. Facing backward and not visible / पीछे की ओर है और दिखाई नहीं देता",
+      "D. Kept separately / अलग रखा गया है"
     ],
-    "answer": "Facing backward and not visible / पीछे की ओर है और दिखाई नहीं देता"
+    "answer": "C. Facing backward and not visible / पीछे की ओर है और दिखाई नहीं देता"
   },
   {
     "id": 26,
@@ -330,12 +330,12 @@
     "subject": "Bharat Ki Pehchan (Buzzer)",
     "question": "The original National Anthem “Jana Gana Mana” was written in:\nमूल राष्ट्रगान “जन गण मन” किस भाषा में रचा गया था?",
     "options": [
-      "Hindi / हिंदी",
-      "Sanskrit / संस्कृत",
-      "Bengali / बंगाली",
-      "Prakrit / प्राकृत"
+      "A. Hindi / हिंदी",
+      "B. Sanskrit / संस्कृत",
+      "C. Bengali / बंगाली",
+      "D. Prakrit / प्राकृत"
     ],
-    "answer": "Bengali / बंगाली"
+    "answer": "C. Bengali / बंगाली"
   },
   {
     "id": 27,
@@ -343,12 +343,12 @@
     "subject": "Bharat Ki Pehchan (Buzzer)",
     "question": "The National Anthem was first publicly sung at the session of the Indian National Congress held in:\nराष्ट्रगान पहली बार भारतीय राष्ट्रीय कांग्रेस के किस अधिवेशन में सार्वजनिक रूप से गाया गया था?",
     "options": [
-      "Bombay, 1885 / बंबई, 1885",
-      "Calcutta, 1911 / कलकत्ता, 1911",
-      "Lucknow, 1916 / लखनऊ, 1916",
-      "Lahore, 1929 / लाहौर, 1929"
+      "A. Bombay, 1885 / बंबई, 1885",
+      "B. Calcutta, 1911 / कलकत्ता, 1911",
+      "C. Lucknow, 1916 / लखनऊ, 1916",
+      "D. Lahore, 1929 / लाहौर, 1929"
     ],
-    "answer": "Calcutta, 1911 / कलकत्ता, 1911"
+    "answer": "B. Calcutta, 1911 / कलकत्ता, 1911"
   },
   {
     "id": 28,
@@ -356,12 +356,12 @@
     "subject": "Bharat Ki Pehchan (Buzzer)",
     "question": "The National Calendar of India is based on which era?\nभारत का राष्ट्रीय कैलेंडर किस संवत पर आधारित है?",
     "options": [
-      "Vikram Samvat / विक्रम संवत",
-      "Shaka Era / शक संवत",
-      "Gupta Era / गुप्त संवत",
-      "Harsha Era / हर्ष संवत"
+      "A. Vikram Samvat / विक्रम संवत",
+      "B. Shaka Era / शक संवत",
+      "C. Gupta Era / गुप्त संवत",
+      "D. Harsha Era / हर्ष संवत"
     ],
-    "answer": "Shaka Era / शक संवत"
+    "answer": "B. Shaka Era / शक संवत"
   },
   {
     "id": 29,
@@ -369,12 +369,12 @@
     "subject": "Bharat Ki Pehchan (Buzzer)",
     "question": "Who designed the Indian National Flag?\nभारतीय राष्ट्रीय ध्वज का डिजाइन किसने तैयार किया था?",
     "options": [
-      "Pingali Venkayya / पिंगली वेंकैया",
-      "Nandalal Bose / नंदलाल बोस",
-      "Rabindranath Tagore / रवींद्रनाथ टैगोर",
-      "Mahatma Gandhi / महात्मा गांधी"
+      "A. Pingali Venkayya / पिंगली वेंकैया",
+      "B. Nandalal Bose / नंदलाल बोस",
+      "C. Rabindranath Tagore / रवींद्रनाथ टैगोर",
+      "D. Mahatma Gandhi / महात्मा गांधी"
     ],
-    "answer": "Pingali Venkayya / पिंगली वेंकैया"
+    "answer": "A. Pingali Venkayya / पिंगली वेंकैया"
   },
   {
     "id": 30,
@@ -382,12 +382,12 @@
     "subject": "Bharat Ki Pehchan (Buzzer)",
     "question": "What is the National Heritage Animal of India?\nभारत का राष्ट्रीय विरासत पशु कौन है?",
     "options": [
-      "Tiger / बाघ",
-      "Elephant / हाथी",
-      "Lion / सिंह",
-      "Rhinoceros / गैंडा"
+      "A. Tiger / बाघ",
+      "B. Elephant / हाथी",
+      "C. Lion / सिंह",
+      "D. Rhinoceros / गैंडा"
     ],
-    "answer": "Elephant / हाथी"
+    "answer": "B. Elephant / हाथी"
   },
   {
     "id": 31,
@@ -395,12 +395,12 @@
     "subject": "Bharat Ki Pehchan (Buzzer)",
     "question": "Who is known as the “Grand Old Man of India”?\n“भारत के ग्रैंड ओल्ड मैन” के नाम से कौन प्रसिद्ध थे?",
     "options": [
-      "Dadabhai Naoroji / दादाभाई नौरोजी",
-      "Gopal Krishna Gokhale / गोपाल कृष्ण गोखले",
-      "Surendranath Banerjee / सुरेंद्रनाथ बनर्जी",
-      "Bal Gangadhar Tilak / बाल गंगाधर तिलक"
+      "A. Dadabhai Naoroji / दादाभाई नौरोजी",
+      "B. Gopal Krishna Gokhale / गोपाल कृष्ण गोखले",
+      "C. Surendranath Banerjee / सुरेंद्रनाथ बनर्जी",
+      "D. Bal Gangadhar Tilak / बाल गंगाधर तिलक"
     ],
-    "answer": "Dadabhai Naoroji / दादाभाई नौरोजी"
+    "answer": "A. Dadabhai Naoroji / दादाभाई नौरोजी"
   },
   {
     "id": 32,
@@ -408,12 +408,12 @@
     "subject": "Bharat Ki Pehchan (Buzzer)",
     "question": "Who is known as the “Father of Indian Space Programme”?\n“भारतीय अंतरिक्ष कार्यक्रम के जनक” किसे कहा जाता है?",
     "options": [
-      "A. P. J. Abdul Kalam / ए. पी. जे. अब्दुल कलाम",
-      "Vikram Sarabhai / विक्रम साराभाई",
-      "Satish Dhawan / सतीश धवन",
-      "Homi Bhabha / होमी भाभा"
+      "A. A. P. J. Abdul Kalam / ए. पी. जे. अब्दुल कलाम",
+      "B. Vikram Sarabhai / विक्रम साराभाई",
+      "C. Satish Dhawan / सतीश धवन",
+      "D. Homi Bhabha / होमी भाभा"
     ],
-    "answer": "Vikram Sarabhai / विक्रम साराभाई"
+    "answer": "B. Vikram Sarabhai / विक्रम साराभाई"
   },
   {
     "id": 33,
@@ -421,12 +421,12 @@
     "subject": "Bharat Ki Pehchan (Buzzer)",
     "question": "Who is known as the “Father of the Green Revolution in India”?\nभारत में “हरित क्रांति के जनक” किसे कहा जाता है?",
     "options": [
-      "M. S. Swaminathan / एम. एस. स्वामीनाथन",
-      "Verghese Kurien / वर्गीज़ कुरियन",
-      "Norman Borlaug / नॉर्मन बोरलॉग",
-      "C. Subramaniam / सी. सुब्रमण्यम"
+      "A. M. S. Swaminathan / एम. एस. स्वामीनाथन",
+      "B. Verghese Kurien / वर्गीज़ कुरियन",
+      "C. Norman Borlaug / नॉर्मन बोरलॉग",
+      "D. C Subramaniam / सी. सुब्रमण्यम"
     ],
-    "answer": "M. S. Swaminathan / एम. एस. स्वामीनाथन"
+    "answer": "A. M. S. Swaminathan / एम. एस. स्वामीनाथन"
   },
   {
     "id": 34,
@@ -434,12 +434,12 @@
     "subject": "Bharat Ki Pehchan (Buzzer)",
     "question": "Which was the first Indian satellite launched by an Indian launch vehicle?\nभारतीय प्रक्षेपण यान द्वारा प्रक्षेपित पहला भारतीय उपग्रह कौन-सा था?",
     "options": [
-      "Aryabhata / आर्यभट्ट",
-      "Rohini RS-1 / रोहिणी RS-1",
-      "Bhaskara-I / भास्कर-I",
-      "INSAT-1B / इनसैट-1B"
+      "A. Aryabhata / आर्यभट्ट",
+      "B. Rohini RS-1 / रोहिणी RS-1",
+      "C. Bhaskara-I / भास्कर-I",
+      "D. INSAT-1B / इनसैट-1B"
     ],
-    "answer": "Rohini RS-1 / रोहिणी RS-1"
+    "answer": "B. Rohini RS-1 / रोहिणी RS-1"
   },
   {
     "id": 35,
@@ -447,12 +447,12 @@
     "subject": "Bharat Ki Pehchan (Buzzer)",
     "question": "India's first indigenously designed and developed supersonic fighter aircraft is:\nभारत का पहला स्वदेशी रूप से डिजाइन और विकसित सुपरसोनिक लड़ाकू विमान कौन-सा है?",
     "options": [
-      "HF-24 Marut / HF-24 मारुत",
-      "Tejas / तेजस",
-      "Su-30MKI / सुखोई-30MKI",
-      "MiG-29 / मिग-29"
+      "A. HF-24 Marut / HF-24 मारुत",
+      "B. Tejas / तेजस",
+      "C. Su-30MKI / सुखोई-30MKI",
+      "D. MiG-29 / मिग-29"
     ],
-    "answer": "Tejas / तेजस"
+    "answer": "B. Tejas / तेजस"
   },
   {
     "id": 36,
@@ -460,12 +460,12 @@
     "subject": "Bharat Ki Pehchan (Buzzer)",
     "question": "Mangalyaan is officially known as:\nमंगलयान का आधिकारिक नाम क्या है?",
     "options": [
-      "Mars Orbiter Mission / मार्स ऑर्बिटर मिशन",
-      "Mars Exploration Vehicle / मार्स एक्सप्लोरेशन व्हीकल",
-      "Indian Mars Mission / इंडियन मार्स मिशन",
-      "Mars Survey Mission / मार्स सर्वे मिशन"
+      "A. Mars Orbiter Mission / मार्स ऑर्बिटर मिशन",
+      "B. Mars Exploration Vehicle / मार्स एक्सप्लोरेशन व्हीकल",
+      "C. Indian Mars Mission / इंडियन मार्स मिशन",
+      "D. Mars Survey Mission / मार्स सर्वे मिशन"
     ],
-    "answer": "Mars Orbiter Mission / मार्स ऑर्बिटर मिशन"
+    "answer": "A. Mars Orbiter Mission / मार्स ऑर्बिटर मिशन"
   },
     {
         "id": 37,
@@ -473,12 +473,12 @@
         "subject": "Tasveeron Mein Bharat",
         "question": "यह प्रतीक किस भारतीय सेना की रेजिमेंट से संबंधित है?",
         "options": [
-            "Kumaon Regiment / कुमाऊँ रेजिमेंट",
-            "Garhwal Rifles / गढ़वाल राइफल्स",
-            "Assam Rifles / असम राइफल्स",
-            "Gorkha Rifles / गोरखा राइफल्स"
+            "A. Kumaon Regiment / कुमाऊँ रेजिमेंट",
+            "B. Garhwal Rifles / गढ़वाल राइफल्स",
+            "C. Assam Rifles / असम राइफल्स",
+            "D. Gorkha Rifles / गोरखा राइफल्स"
         ],
-        "answer": "Garhwal Rifles / गढ़वाल राइफल्स",
+        "answer": "B. Garhwal Rifles / गढ़वाल राइफल्स",
         "image": "image_01.png"
     },
     {
@@ -487,12 +487,12 @@
         "subject": "Tasveeron Mein Bharat",
         "question": "Picture of the Indian scientist associated with India’s first nuclear test at Pokhran\nभारत के उस वैज्ञानिक की तस्वीर, जो पोखरण में भारत के पहले परमाणु परीक्षण से जुड़े थे, किसकी है?",
         "options": [
-            "Dr. Homi J. Bhabha / डॉ. होमी जे. भाभा",
-            "Dr. A.P.J. Abdul Kalam / डॉ. ए.पी.जे. अब्दुल कलाम",
-            "Dr. Raja Ramanna / डॉ. राजा रामन्ना",
-            "Vikram Sarabhai / विक्रम साराभाई"
+            "A. Dr. Homi J. Bhabha / डॉ. होमी जे. भाभा",
+            "B. Dr. A.P.J. Abdul Kalam / डॉ. ए.पी.जे. अब्दुल कलाम",
+            "C. Dr. Raja Ramanna / डॉ. राजा रामन्ना",
+            "D. Vikram Sarabhai / विक्रम साराभाई"
         ],
-        "answer": "Dr. Raja Ramanna / डॉ. राजा रामन्ना",
+        "answer": "A. Dr. Raja Ramanna / डॉ. राजा रामन्ना",
         "image": "image_02.png"
     },
     {
@@ -501,12 +501,12 @@
         "subject": "Tasveeron Mein Bharat",
         "question": "Picture of Mahatma Gandhi at the Dandi March\nदांडी मार्च की तस्वीर किस ऐतिहासिक आंदोलन से संबंधित है?",
         "options": [
-            "Quit India Movement / भारत छोड़ो आंदोलन",
-            "Non-Cooperation Movement / असहयोग आंदोलन",
-            "Civil Disobedience Movement / सविनय अवज्ञा आंदोलन",
-            "Swadeshi Movement / स्वदेशी आंदोलन"
+            "A. Quit India Movement / भारत छोड़ो आंदोलन",
+            "B. Non-Cooperation Movement / असहयोग आंदोलन",
+            "C. Civil Disobedience Movement / सविनय अवज्ञा आंदोलन",
+            "D. Swadeshi Movement / स्वदेशी आंदोलन"
         ],
-        "answer": "Civil Disobedience Movement / सविनय अवज्ञा आंदोलन",
+        "answer": "C. Civil Disobedience Movement / सविनय अवज्ञा आंदोलन",
         "image": "image_03.png"
     },
     {
@@ -515,12 +515,12 @@
         "subject": "Tasveeron Mein Bharat",
         "question": "Picture of Rashtrapati Bhavan\nराष्ट्रपति भवन मूल रूप से किस नाम से जाना जाता था?",
         "options": [
-            "Viceroy’s House / वायसराय हाउस",
-            "Governor House / गवर्नर हाउस",
-            "Imperial Palace / इम्पीरियल पैलेस",
-            "King’s House / किंग्स हाउस"
+            "A. Viceroy’s House / वायसराय हाउस",
+            "B. Governor House / गवर्नर हाउस",
+            "C. Imperial Palace / इम्पीरियल पैलेस",
+            "D. King’s House / किंग्स हाउस"
         ],
-        "answer": "Viceroy’s House / वायसराय हाउस",
+        "answer": "A. Viceroy’s House / वायसराय हाउस",
         "image": "image_04.png"
     },
     {
@@ -529,12 +529,12 @@
         "subject": "Tasveeron Mein Bharat",
         "question": "Picture of Mangal Pandey\n1857 के विद्रोह से जुड़े इस सैनिक की पहचान कीजिए।",
         "options": [
-            "Mangal Pandey / मंगल पांडे",
-            "Tatya Tope / तात्या टोपे",
-            "Kunwar Singh / कुँवर सिंह",
-            " Nana Sahib / नाना साहेब"
+            "A. Mangal Pandey / मंगल पांडे",
+            "B. Tatya Tope / तात्या टोपे",
+            "C. Kunwar Singh / कुँवर सिंह",
+            "D. Nana Sahib / नाना साहेब"
         ],
-        "answer": "Mangal Pandey / मंगल पांडे",
+        "answer": "A. Mangal Pandey / मंगल पांडे",
         "image": "image_05.png"
     },
     {
@@ -543,12 +543,12 @@
         "subject": "Tasveeron Mein Bharat",
         "question": "जलियांवाला बाग हत्याकांड का बदला लेने वाले स्वतंत्रता सेनानी की पहचान कीजिए।",
         "options": [
-            "Udham Singh / ऊधम सिंह",
-            "Lala Lajpat Rai / लाला लाजपत राय",
-            "Sukhdev / सुखदेव",
-            "Rajguru / राजगुरु"
+            "A. Udham Singh / ऊधम सिंह",
+            "B. Lala Lajpat Rai / लाला लाजपत राय",
+            "C. Sukhdev / सुखदेव",
+            "D. Rajguru / राजगुरु"
         ],
-        "answer": "Udham Singh / ऊधम सिंह",
+        "answer": "A. Udham Singh / ऊधम सिंह",
         "image": "image_06.png"
     },
     {
@@ -557,12 +557,12 @@
         "subject": "Tasveeron Mein Bharat",
         "question": "Picture of the National War Memorial, New Delhi\nयह स्मारक किसके सम्मान में बनाया गया है?",
         "options": [
-            "Freedom fighters / स्वतंत्रता सेनानी",
-            "Indian Armed Forces personnel who made the supreme sacrifice / सर्वोच्च बलिदान देने वाले भारतीय सशस्त्र बलों के जवान",
-            "Police personnel only / केवल पुलिसकर्मी",
-            "Political leaders / राजनीतिक नेता"
+            "A. Freedom fighters / स्वतंत्रता सेनानी",
+            "B. Indian Armed Forces personnel who made the supreme sacrifice / सर्वोच्च बलिदान देने वाले भारतीय सशस्त्र बलों के जवान",
+            "C. Police personnel only / केवल पुलिसकर्मी",
+            "D. Political leaders / राजनीतिक नेता"
         ],
-        "answer": "Indian Armed Forces personnel who made the supreme sacrifice / सर्वोच्च बलिदान देने वाले भारतीय सशस्त्र बलों के जवान",
+        "answer": "B. Indian Armed Forces personnel who made the supreme sacrifice / सर्वोच्च बलिदान देने वाले भारतीय सशस्त्र बलों के जवान",
         "image": "image_07.png"
     },
     {
@@ -571,12 +571,12 @@
         "subject": "Tasveeron Mein Bharat",
         "question": "चित्र में दिखाई दे रहे इस भारतीय लड़ाकू विमान को पहचानिए।",
         "options": [
-            "MiG-21 / मिग-21",
-            "HAL Tejas / एचएएल तेजस",
-            "Sukhoi Su-30MKI / सुखोई Su-30MKI",
-            "HAL HF-24 Marut / एचएफ-24 मारुत"
+            "A. MiG-21 / मिग-21",
+            "B. HAL Tejas / एचएएल तेजस",
+            "C. Sukhoi Su-30MKI / सुखोई Su-30MKI",
+            "D. HAL HF-24 Marut / एचएफ-24 मारुत"
         ],
-        "answer": "HAL Tejas / एचएएल तेजस",
+        "answer": "B. HAL Tejas / एचएएल तेजस",
         "image": "image_08.png"
     },
     {
@@ -585,12 +585,12 @@
         "subject": "Tasveeron Mein Bharat",
         "question": "Identify the missile shown in the image.\nचित्र में दिखाई गई मिसाइल की पहचान करें।",
         "options": [
-            "Agni-V / अग्नि-V",
-            "Prithvi / पृथ्वी",
-            "BrahMos / ब्रह्मोस",
-            "Akash / आकाश"
+            "A. Agni-V / अग्नि-V",
+            "B. Prithvi / पृथ्वी",
+            "C. BrahMos / ब्रह्मोस",
+            "D. Akash / आकाश"
         ],
-        "answer": "Agni-V / अग्नि-V",
+        "answer": "A. Agni-V / अग्नि-V",
         "image": "image_09.png"
     },
     {
@@ -599,12 +599,12 @@
         "subject": "Tasveeron Mein Bharat",
         "question": "Identify the indigenous main battle tank associated with DRDO.\nDRDO से जुड़े स्वदेशी मुख्य युद्धक टैंक की पहचान करें।",
         "options": [
-            "Arjun / अर्जुन",
-            "T-90 / टी-90",
-            "T-72 / टी-72",
-            "BMP-2 / BMP-2"
+            "A. Arjun / अर्जुन",
+            "B. T-90 / टी-90",
+            "C. T-72 / टी-72",
+            "D. BMP-2 / BMP-2"
         ],
-        "answer": "Arjun / अर्जुन",
+        "answer": "A. Arjun / अर्जुन",
         "image": "image_10.png"
     }
 ]
