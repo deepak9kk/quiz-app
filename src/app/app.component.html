@@ -9,22 +9,34 @@
 
   <!-- Row 2 - Round Name, Team, Score, and Time Left -->
   <div class="row row2" *ngIf="gameStarted">
-    <div class="col col-left">
-      <p-card><h4>{{ currentRound }}</h4></p-card>
-    </div>
-
-    <div class="col col-right" *ngIf="currentTeam !== null">
-      <p-card><h4>Team {{ currentTeam + 1 }}</h4></p-card>
-    </div>
-    
-    <div class="col col-right" *ngIf="currentTeam !== null">
-      <p-card><h4>Your Score: {{ scores[currentTeam] }}</h4></p-card>
-    </div>
-    
-    <div class="col col-right">
-      <p-card><h4>Time Left: {{ currentTimerLimit - timeLapsed }}s</h4></p-card>
-    </div>
+  <!-- Round Card: Light Blue -->
+  <div class="col col-left">
+    <p-card [style]="{ 'background-color': '#e3f2fd', 'color': '#0d47a1' }">
+      <h3>{{ currentRound }}</h3>
+    </p-card>
   </div>
+
+  <!-- Team Card: Light Green -->
+  <div class="col col-right" *ngIf="currentTeam !== null">
+    <p-card [style]="{ 'background-color': '#e8f5e9', 'color': '#1b5e20' }">
+      <h3>Team {{ currentTeam + 1 }}</h3>
+    </p-card>
+  </div>
+
+  <!-- Score Card: Light Purple -->
+  <div class="col col-right" *ngIf="currentTeam !== null">
+    <p-card [style]="{ 'background-color': '#f3e5f5', 'color': '#4a148c' }">
+      <h3>Your Score: {{ scores[currentTeam] }}</h3>
+    </p-card>
+  </div>
+
+  <!-- Timer Card: Light Amber/Orange -->
+  <div class="col col-right">
+    <p-card [style]="{ 'background-color': '#fff3e0', 'color': '#e65100' }">
+      <h3>Time Left: {{ currentTimerLimit - timeLapsed }}s</h3>
+    </p-card>
+  </div>
+</div>
 
   <!-- Row 3 - Question Area & Pass Mechanics -->
   <!-- Row 3 - Question Area & Pass Mechanics -->

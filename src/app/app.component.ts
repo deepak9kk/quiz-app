@@ -69,11 +69,11 @@ interface SaveGame {
 })
 export class AppComponent implements OnInit {
   // Quiz Configuration
-  totalTeams = 4;
-  questionsPerTeamPerRound = 2;
+  totalTeams = 5;
+  questionsPerTeamPerRound = 5;
 
   rounds = [
-    { name: "Slogans, Quotes & Wars", timerSec: 30, allowPass: true, eliminateCount: 1 },
+    { name: "Slogans, Quotes & Wars", timerSec: 30, allowPass: true, eliminateCount: 2 },
     { name: "Bharat Ki Pehchan (Buzzer)", timerSec: 60, allowPass: false, eliminateCount: 1 },
     { name: "Tasveeron Mein Bharat", timerSec: 30, allowPass: true, eliminateCount: 0 }
   ];
@@ -143,7 +143,7 @@ export class AppComponent implements OnInit {
         message: "Start or continue the session?",
         accept: this.startGame,
         reject: this.clearData,
-        acceptLabel: "Start Game",
+        acceptLabel: "Start Quiz",
         rejectLabel: "Reset Data",
         closable: false
       });
